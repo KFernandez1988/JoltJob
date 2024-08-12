@@ -2,12 +2,12 @@ from functools import wraps
 from flask import request, jsonify
 from app import app
 import datetime
-import jwt  # Use `import jwt` instead of individual imports for clarity.
+import jwt  
 
 def generate_token(user):
     payload = {
         'user_id': user.id,
-        'exp': datetime.datetime.utcnow() + datetime.timedelta(hours=1)  # Use `utcnow` for timezone consistency
+        'exp': datetime.datetime.utcnow() + datetime.timedelta(hours=1)  
     }
     token = jwt.encode(payload, app.config['SECRET_KEY'], algorithm='HS256')
     return token
@@ -28,11 +28,11 @@ def decode_token(token):
         return None
 
 def login_required(f):
-    @wraps(f)  # Use @wraps to preserve the original function's metadata.
+    @wraps(f)  
     def decorated_function(*args, **kwargs):
         token = None
         if 'Authorization' in request.headers:
-            token = request.headers['Authorization'].split(" ")[1]  # Assumes Bearer token format
+            token = request.headers['Authorization'].split(" ")[1]  
         if not token:
             return jsonify({'error': 'Token is missing!'}), 401
         user_id = decode_token(token)
