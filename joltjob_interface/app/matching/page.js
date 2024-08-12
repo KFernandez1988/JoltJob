@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
+import Link from 'next/link'
 import * as d3 from 'd3';
 
 export default function Home() {
@@ -50,6 +51,11 @@ export default function Home() {
 
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100">
+            <header>
+        <h3>JOLTJOB</h3><ul><li><Link href="/login">Login</Link></li>
+        <li><Link href="users">List</Link></li>
+        <li><Link href="matching">Matching</Link></li></ul>
+      </header>
       <header className="w-full flex justify-end p-4">
         <button
           className="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700"

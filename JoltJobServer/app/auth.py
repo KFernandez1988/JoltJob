@@ -1,39 +1,42 @@
-import os
-from appwrite.client import Client
-from appwrite.services.account import Account
-from appwrite.exception import AppwriteException  # Import the exception class
+from functools import wraps
 from flask import request, jsonify
+from app import app
+import datetime
+import jwt  # Use `import jwt` instead of individual imports for clarity.
 
-client = Client()
+def generate_token(user):
+    payload = {
+        'user_id': user.id,
+        'exp': datetime.datetime.utcnow() + datetime.timedelta(hours=1)  # Use `utcnow` for timezone consistency
+    }
+    token = jwt.encode(payload, app.config['SECRET_KEY'], algorithm='HS256')
+    return token
 
-client.set_endpoint(os.getenv('APPWRITE_ENDPOINT'))
-client.set_project(os.getenv('APPWRITE_PROJECT_ID'))
-client.set_key(os.getenv('APPWRITE_API_KEY'))
-
-def verify_token():
-    account = Account(client)
-    auth_header = request.headers.get('Authorization')
-    if auth_header and auth_header.startswith('Bearer '):
-        jwt_token = auth_header.split(' ')[1]
-        try:
-            client.set_jwt(jwt_token) 
-            user = account.get()  
-            if user:
-                return user
-        except AppwriteException as e: 
-            print(f"AppwriteException during token verification: {e}")
-            return None
-        except Exception as e:  # Catch other exceptions
-            print(f"Exception during token verification: {e}")
-            return None
-    else:
-        print("Authorization header missing or malformed")
-    return None
+def decode_token(token):
+    try:
+        payload = jwt.decode(token, app.config['SECRET_KEY'], algorithms=['HS256'])
+        print('Decoded payload:', payload)
+        return payload['user_id']
+    except jwt.ExpiredSignatureError:
+        print("Error: Token has expired")
+        return None
+    except jwt.InvalidTokenError as e:
+        print(f"Error: Invalid token - {str(e)}")
+        return None
+    except Exception as e:
+        print(f"Error: {str(e)}")
+        return None
 
 def login_required(f):
+    @wraps(f)  # Use @wraps to preserve the original function's metadata.
     def decorated_function(*args, **kwargs):
-        user = verify_token()
-        if user is None:
-            return jsonify({'message': 'Authentication is required!'}), 401
-        return f(*args, **kwargs)
+        token = None
+        if 'Authorization' in request.headers:
+            token = request.headers['Authorization'].split(" ")[1]  # Assumes Bearer token format
+        if not token:
+            return jsonify({'error': 'Token is missing!'}), 401
+        user_id = decode_token(token)
+        if not user_id:
+            return jsonify({'error': 'Token is invalid or expired!'}), 401
+        return f(user_id, *args, **kwargs)
     return decorated_function

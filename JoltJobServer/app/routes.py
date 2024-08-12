@@ -1,59 +1,54 @@
-# app/routes.py
-from flask import Blueprint, jsonify, request
-from app import db
+from flask import Blueprint, jsonify, request, render_template, session
+from app.auth import generate_token, login_required
+from app import db, app
 from app.models import Users
-from app.auth import login_required  # Assuming you have a login_required decorator
-from appwrite.client import Client
-from appwrite.services.account import Account
+from flask_bcrypt import Bcrypt, check_password_hash
 
 bp = Blueprint('main', __name__)
-
-client = Client()
-
-client.set_endpoint('https://cloud.appwrite.io/v1')  # Your Appwrite Endpoint
-client.set_project('665285f100322051239c')  # Your project ID
-client.set_key('fb42ebecb16a7389e20c4de28845713906462310b0d3ed148f1483c04ff26d926dabad420d425b0b5b163891a65202bad130691180b25e37cbb837843802908336b56c182c131cc0ee08eaa1863e20590b6d32c15b286fe52d66e5639fcfdf8b989ed26e7d098bd23475dcc7c34028080bb55bc545496cc4a614cdc1475fd249')  # Your API Key
+bcrypt = Bcrypt(app)
 
 @bp.route('/')
 def index():
-    return 'Hello, World!'
+    return render_template('index.html')
 
 @bp.route('/signup', methods=['POST'])
 def signup():
     data = request.get_json()
-    account = Account(client)
-    try:
-        user = account.create(
-            user_id='unique()', 
-            email=data['email'],
-            password=data['password'],
-            name=data.get('username', '')  
-        )
-        new_user = Users(username=data['username'], email=data['email'], password=data['password'])
-        db.session.add(new_user)
-        db.session.commit()
-        return jsonify(user), 201
-    except Exception as e:
-        return jsonify({'error': str(e)}), 400
+
+    email = data.get('email')
+    password = data.get('password')
+
+    print(data)
+
+    user = Users.query.filter_by(email=email).first()
+    if user:
+        return jsonify({'message': 'User already exists'}), 409
+
+    hashed_password = bcrypt.generate_password_hash(password).decode('utf-8')
+    new_user = Users(fullname=data.get('name'), email=email, password=hashed_password, location=data.get('location'), jobType=data.get('jobType'), experienceLevel=data.get('experienceLevel'))
+    db.session.add(new_user)
+    db.session.commit()
+
+    return jsonify({'message': 'User created successfully'}), 201
 
 @bp.route('/login', methods=['POST'])
 def login():
     data = request.get_json()
-    account = Account(client)
-    try:
-        session = account.create_email_password_session(
-            email=data['email'],
-            password=data['password']
-        )
-        jwt_token = session['$id']
-        return jsonify({'jwt': jwt_token}), 200
-    except Exception as e:
-        return jsonify({'error': str(e)}), 400
-    
-    
-login_required
+
+    if not data or 'email' not in data or 'password' not in data:
+        return jsonify({'error': 'Email and password are required'}), 400
+
+    user = Users.query.filter_by(email=data['email']).first()
+
+    if user and check_password_hash(user.password, data['password']):
+        token = generate_token(user) 
+        return jsonify({'token': token}), 200
+    else:
+        return jsonify({'error': 'Invalid credentials'}), 400
+
+
 @bp.route('/users', methods=['GET'])
 @login_required
-def get_users():
+def get_users(logged_in_user_id):
     users = Users.query.all()
-    return jsonify([user.username for user in users])
+    return jsonify([user.fullname for user in users])

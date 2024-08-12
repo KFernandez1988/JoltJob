@@ -1,0 +1,101 @@
+name,type,town,hire_rate,positive_value_1,positive_value_2,positive_value_3,negative_value_1,negative_value_2,negative_value_3,industry,website
+Triple-S Management,Healthcare,Guaynabo,Low,Convenient,Convenient,Compassionate,Costly,Limited,Costly,Healthcare,Null
+GFR Media,Restaurant,Guaynabo,Medium,Trustworthy,Accessible,Technologically Advanced,Restrictive,Noisy,Inconvenient,Banking,Null
+Evertec,Media,Guaynabo,Low,Technologically Advanced,Professional,Influential,Complex,Inconvenient,Limited,Banking,Null
+Liberty Puerto Rico,Healthcare,Guaynabo,Medium,Reliable,Fast,Technologically Advanced,Pricy,Noisy,Unsafe,Healthcare,Null
+Banco Popular,Telecommunications,Guaynabo,Medium,Compassionate,Fast,Customer-Centric,Competitive,Limited,Unhygienic,Banking,https://www.verizon.com/
+Banco Popular,IT Services,Guaynabo,Medium,Professional,Friendly,Caring,Unsafe,Competitive,Confusing,Banking,Null
+City View Plaza,Healthcare,Guaynabo,Medium,Caring,Professional,Caring,Difficult,Confusing,Unhygienic,IT,Null
+Baxter Healthcare,Industrial Park,Guaynabo,High,Compassionate,Reliable,Supportive,Costly,Risky,Expensive,Real Estate,Null
+Claro Puerto Rico,Office Complex,Guaynabo,Low,Convenient,Connected,Compassionate,Restrictive,Limited,Overcrowded,Healthcare,https://www.baxter.com/
+Triple-S Management,Restaurant,Guaynabo,High,Customer-Centric,Influential,Technologically Advanced,Slow,Pricy,Pricy,Telecommunications,https://www.ssspr.com/
+Universal Insurance,Logistics,Guaynabo,High,Caring,Accessible,Supportive,Unavailable,Noisy,Limited,IT,Null
+Universal Insurance,Insurance,Guaynabo,High,Caring,Reliable,Customer-Centric,Expensive,Confusing,Pricy,Healthcare,https://www.att.com/
+Evertec,Restaurant,Guaynabo,Low,Accessible,Friendly,Accessible,Oversaturated,Overcrowded,Confusing,Telecommunications,Null
+City View Plaza,Industrial Park,Guaynabo,High,Efficient,Empathetic,Fast,Difficult,Confusing,Complicated,Telecommunications,Null
+Johnson & Johnson,Pharmaceutical,Guaynabo,High,Empathetic,Innovative,Supportive,Limited,Unsafe,Complicated,Commercial,Null
+Unicity Puerto Rico,Telecommunications,Guaynabo,High,Stable,Creative,Accessible,Unpredictable,Unpredictable,Unsafe,Transportation,Null
+Claro Puerto Rico,Restaurant,Guaynabo,Low,Trustworthy,Stable,Customer-Centric,Overcrowded,Confusing,Inconvenient,Commercial,Null
+Unicity Puerto Rico,Fast Food,Guaynabo,Low,Connected,Trustworthy,Efficient,Inconvenient,Unpredictable,Complicated,Healthcare,https://www.gfrmedia.com/
+Claro Puerto Rico,Insurance,Guaynabo,Low,Supportive,Efficient,Technologically Advanced,Unsafe,Inconvenient,Oversaturated,Pharmaceutical,https://www.microsoft.com/
+Rexco Industrial Park,Wholesale,Guaynabo,Low,Innovative,Convenient,Caring,Confusing,Unsafe,Unavailable,Commercial,https://www.evertecinc.com/
+Microsoft Puerto Rico,Restaurant,Guaynabo,Low,Customer-Centric,Convenient,Customer-Centric,Limited,Expensive,Noisy,Insurance,Null
+Johnson & Johnson,Wholesale,Guaynabo,Low,Trustworthy,Trustworthy,Technologically Advanced,Costly,Expensive,Expensive,Healthcare,https://www.burgerkingpr.com/
+Microsoft Puerto Rico,Telecommunications,Guaynabo,Medium,Technologically Advanced,Trustworthy,Friendly,Oversaturated,Unhygienic,Restrictive,Commercial,Null
+Microsoft Puerto Rico,Office Complex,Guaynabo,Low,Creative,Accessible,Reliable,Overcrowded,Slow,Complicated,Transportation,https://www.burgerkingpr.com/
+Universal Insurance,Telecommunications,Guaynabo,Low,Innovative,Friendly,Innovative,Difficult,Complex,Complicated,Real Estate,https://www.jnj.com/
+Burger King,Insurance,Guaynabo,Low,Customer-Centric,Technologically Advanced,Connected,Oversaturated,Competitive,Risky,Real Estate,https://www.evertecinc.com/
+SARCO,Wholesale,Guaynabo,High,Accessible,Creative,Stable,Noisy,Limited,Risky,Transportation,https://www.popular.com/
+Universal Insurance,Office Complex,Guaynabo,High,Innovative,Empathetic,Compassionate,Overcrowded,Complicated,Inconvenient,Pharmaceutical,Null
+City View Plaza,Bank,Guaynabo,High,Fast,Connected,Empathetic,Complicated,Competitive,Unavailable,Banking,https://www.ssspr.com/
+GFR Media,Fast Food,Guaynabo,High,Friendly,Efficient,Technologically Advanced,Unhygienic,Expensive,Difficult,Telecommunications,https://www.evertecinc.com/
+FirstBank Puerto Rico,Media,Guaynabo,Low,Connected,Fast,Friendly,Unsafe,Inconvenient,Inconvenient,Insurance,https://www.claropr.com/
+Claro Puerto Rico,Telecommunications,Guaynabo,High,Creative,Compassionate,Friendly,Difficult,Risky,Noisy,Media,Null
+FirstBank Puerto Rico,Office Complex,Guaynabo,Medium,Accessible,Reliable,Innovative,Unpredictable,Oversaturated,Complex,Healthcare,https://www.gfrmedia.com/
+Pfizer,Telecommunications,Guaynabo,Low,Compassionate,Professional,Accessible,Overcrowded,Overcrowded,Costly,Banking,Null
+GFR Media,Logistics,Guaynabo,Medium,Creative,Reliable,Convenient,Expensive,Expensive,Unavailable,Commercial,Null
+Microsoft Puerto Rico,IT Services,Guaynabo,Medium,Creative,Technologically Advanced,Empathetic,Overcrowded,Pricy,Risky,Commercial,Null
+Universal Insurance,Telecommunications,Guaynabo,High,Technologically Advanced,Compassionate,Customer-Centric,Unpredictable,Inconvenient,Unsafe,Real Estate,https://www.pfizer.com/
+Johnson & Johnson,Pharmaceutical,Guaynabo,High,Compassionate,Caring,Connected,Unavailable,Oversaturated,Unsafe,Food,https://www.microsoft.com/
+City View Plaza,Telecommunications,Guaynabo,Low,Supportive,Influential,Friendly,Unavailable,Unavailable,Oversaturated,Insurance,Null
+FirstBank Puerto Rico,Pharmaceutical,Guaynabo,High,Customer-Centric,Organized,Efficient,Inconvenient,Slow,Unhygienic,IT,https://www.claropr.com/
+Liberty Puerto Rico,Bank,Guaynabo,Low,Organized,Organized,Connected,Slow,Risky,Costly,Commercial,Null
+Verizon Puerto Rico,Restaurant,Guaynabo,Medium,Organized,Trustworthy,Connected,Costly,Slow,Overcrowded,Healthcare,https://www.jnj.com/
+Universal Insurance,Fast Food,Guaynabo,Medium,Reliable,Reliable,Customer-Centric,Difficult,Pricy,Inconvenient,Commercial,https://www.claropr.com/
+Interstate Batteries,Telecommunications,Guaynabo,Medium,Innovative,Influential,Caring,Unsafe,Pricy,Oversaturated,Banking,https://www.ssspr.com/
+Liberty Puerto Rico,IT Services,Guaynabo,High,Customer-Centric,Caring,Supportive,Unavailable,Oversaturated,Risky,Commercial,Null
+GFR Media,Bank,Guaynabo,High,Stable,Convenient,Friendly,Unavailable,Unsafe,Unsafe,Commercial,Null
+Universal Insurance,Telecommunications,Guaynabo,Medium,Convenient,Reliable,Organized,Unpredictable,Complex,Expensive,Transportation,Null
+Baxter Healthcare,Pharmaceutical,Guaynabo,Low,Efficient,Customer-Centric,Influential,Expensive,Restrictive,Competitive,Healthcare,https://www.verizon.com/
+Rexco Industrial Park,Telecommunications,Guaynabo,Low,Fast,Trustworthy,Convenient,Expensive,Unavailable,Expensive,Telecommunications,https://www.claropr.com/
+FirstBank Puerto Rico,Fast Food,Guaynabo,Medium,Compassionate,Influential,Convenient,Pricy,Inconvenient,Pricy,Transportation,https://www.microsoft.com/
+SARCO,Bank,Guaynabo,Low,Technologically Advanced,Efficient,Empathetic,Competitive,Unavailable,Oversaturated,Automotive,https://www.cityviewplaza.com/
+Baxter Healthcare,Insurance,Guaynabo,High,Friendly,Efficient,Organized,Slow,Inconvenient,Confusing,Real Estate,Null
+SARCO,Restaurant,Guaynabo,Medium,Fast,Friendly,Connected,Pricy,Expensive,Unpredictable,Banking,https://www.att.com/
+AT&T Puerto Rico,Office Complex,Guaynabo,Low,Supportive,Convenient,Technologically Advanced,Unhygienic,Overcrowded,Inconvenient,Media,https://www.att.com/
+Unicity Puerto Rico,Industrial Park,Guaynabo,High,Professional,Friendly,Influential,Limited,Complex,Complicated,Real Estate,https://www.cityviewplaza.com/
+Rexco Industrial Park,Media,Guaynabo,Medium,Reliable,Organized,Professional,Restrictive,Confusing,Unpredictable,Real Estate,https://www.1firstbank.com/
+Interstate Batteries,Insurance,Guaynabo,High,Organized,Caring,Accessible,Overcrowded,Unavailable,Complicated,Banking,https://www.pfizer.com/
+Interstate Batteries,IT Services,Guaynabo,Low,Efficient,Supportive,Innovative,Complex,Competitive,Pricy,Commercial,Null
+Interstate Batteries,IT Services,Guaynabo,Medium,Efficient,Accessible,Influential,Noisy,Pricy,Risky,Insurance,Null
+FirstBank Puerto Rico,Insurance,Guaynabo,Low,Reliable,Convenient,Caring,Costly,Confusing,Restrictive,Automotive,https://www.claropr.com/
+Liberty Puerto Rico,Fast Food,Guaynabo,Medium,Convenient,Fast,Organized,Overcrowded,Inconvenient,Pricy,Real Estate,Null
+Triple-S Management,Healthcare,Guaynabo,Low,Compassionate,Convenient,Technologically Advanced,Complicated,Noisy,Unsafe,Healthcare,https://www.libertypr.com/
+City View Plaza,Pharmaceutical,Guaynabo,Low,Stable,Reliable,Accessible,Complex,Difficult,Complicated,IT,Null
+Interstate Batteries,Industrial Park,Guaynabo,Low,Connected,Innovative,Organized,Expensive,Noisy,Pricy,Commercial,Null
+SARCO,Telecommunications,Guaynabo,Low,Stable,Technologically Advanced,Trustworthy,Pricy,Overcrowded,Noisy,Insurance,https://www.universalpr.com/
+GFR Media,Insurance,Guaynabo,Medium,Trustworthy,Organized,Reliable,Expensive,Limited,Complicated,Media,https://www.att.com/
+Banco Popular,Telecommunications,Guaynabo,Medium,Technologically Advanced,Efficient,Creative,Oversaturated,Confusing,Difficult,IT,https://www.popular.com/
+Unicity Puerto Rico,Media,Guaynabo,Low,Stable,Connected,Empathetic,Complex,Unavailable,Unpredictable,Media,Null
+Verizon Puerto Rico,Bank,Guaynabo,Medium,Stable,Empathetic,Connected,Expensive,Risky,Confusing,Media,https://www.evertecinc.com/
+Evertec,Fast Food,Guaynabo,Medium,Convenient,Professional,Supportive,Risky,Complicated,Unpredictable,Telecommunications,https://www.jnj.com/
+Johnson & Johnson,Wholesale,Guaynabo,High,Professional,Supportive,Creative,Restrictive,Limited,Costly,Insurance,Null
+Banco Popular,Wholesale,Guaynabo,Low,Compassionate,Creative,Convenient,Oversaturated,Limited,Difficult,Transportation,Null
+Claro Puerto Rico,Office Complex,Guaynabo,Low,Connected,Creative,Trustworthy,Noisy,Restrictive,Noisy,Real Estate,https://www.universalpr.com/
+FirstBank Puerto Rico,Industrial Park,Guaynabo,Medium,Connected,Connected,Customer-Centric,Oversaturated,Competitive,Noisy,Pharmaceutical,Null
+Burger King,Restaurant,Guaynabo,Low,Compassionate,Professional,Compassionate,Complicated,Inconvenient,Difficult,Automotive,Null
+FirstBank Puerto Rico,Bank,Guaynabo,Low,Influential,Innovative,Reliable,Inconvenient,Limited,Unhygienic,Food,Null
+Microsoft Puerto Rico,Telecommunications,Guaynabo,High,Stable,Innovative,Reliable,Inconvenient,Unavailable,Unavailable,Real Estate,https://www.pfizer.com/
+Pfizer,Telecommunications,Guaynabo,Medium,Technologically Advanced,Empathetic,Trustworthy,Unsafe,Competitive,Limited,Commercial,Null
+Microsoft Puerto Rico,Healthcare,Guaynabo,Medium,Professional,Influential,Fast,Difficult,Complicated,Expensive,Commercial,https://www.claropr.com/
+Universal Insurance,Pharmaceutical,Guaynabo,Medium,Friendly,Professional,Organized,Complex,Pricy,Overcrowded,Real Estate,Null
+Burger King,Restaurant,Guaynabo,Low,Influential,Fast,Efficient,Inconvenient,Unavailable,Inconvenient,Transportation,https://www.evertecinc.com/
+Johnson & Johnson,Fast Food,Guaynabo,High,Reliable,Influential,Compassionate,Unpredictable,Expensive,Noisy,Telecommunications,https://www.gfrmedia.com/
+Interstate Batteries,IT Services,Guaynabo,Medium,Organized,Compassionate,Fast,Complicated,Oversaturated,Competitive,Media,https://www.evertecinc.com/
+Verizon Puerto Rico,Healthcare,Guaynabo,Low,Caring,Caring,Innovative,Risky,Competitive,Unavailable,Insurance,Null
+Johnson & Johnson,Media,Guaynabo,Medium,Friendly,Reliable,Friendly,Inconvenient,Pricy,Restrictive,Food,https://www.claropr.com/
+Liberty Puerto Rico,Healthcare,Guaynabo,High,Professional,Influential,Accessible,Competitive,Unsafe,Unavailable,Telecommunications,Null
+Liberty Puerto Rico,Industrial Park,Guaynabo,Medium,Stable,Influential,Technologically Advanced,Oversaturated,Overcrowded,Costly,Food,https://www.att.com/
+City View Plaza,Telecommunications,Guaynabo,High,Customer-Centric,Professional,Customer-Centric,Pricy,Unavailable,Complicated,Media,Null
+Pfizer,Industrial Park,Guaynabo,High,Fast,Convenient,Friendly,Overcrowded,Overcrowded,Expensive,Insurance,Null
+Universal Insurance,Telecommunications,Guaynabo,High,Accessible,Caring,Technologically Advanced,Complex,Slow,Unpredictable,Media,https://www.baxter.com/
+Unicity Puerto Rico,Restaurant,Guaynabo,Low,Trustworthy,Empathetic,Stable,Noisy,Noisy,Unhygienic,Pharmaceutical,https://www.popular.com/
+Claro Puerto Rico,Telecommunications,Guaynabo,Medium,Influential,Technologically Advanced,Convenient,Slow,Confusing,Costly,Insurance,Null
+Universal Insurance,Telecommunications,Guaynabo,High,Supportive,Organized,Innovative,Risky,Pricy,Restrictive,Automotive,Null
+AT&T Puerto Rico,Insurance,Guaynabo,Medium,Innovative,Trustworthy,Empathetic,Unhygienic,Difficult,Unhygienic,IT,Null
+Claro Puerto Rico,Bank,Guaynabo,High,Technologically Advanced,Empathetic,Accessible,Costly,Unhygienic,Overcrowded,Automotive,https://www.popular.com/
+Liberty Puerto Rico,Fast Food,Guaynabo,Medium,Connected,Supportive,Organized,Slow,Expensive,Unpredictable,Healthcare,https://www.microsoft.com/
+Pfizer,Telecommunications,Guaynabo,Medium,Reliable,Compassionate,Customer-Centric,Unavailable,Inconvenient,Overcrowded,Media,https://www.microsoft.com/
+Banco Popular,Telecommunications,Guaynabo,High,Connected,Innovative,Professional,Competitive,Unpredictable,Noisy,Insurance,Null
+City View Plaza,Logistics,Guaynabo,High,Empathetic,Customer-Centric,Compassionate,Confusing,Restrictive,Unsafe,Food,https://www.cityviewplaza.com/
+Universal Insurance,Bank,Guaynabo,Medium,Fast,Innovative,Empathetic,Slow,Expensive,Oversaturated,Real Estate,Null
