@@ -1,0 +1,1001 @@
+name,type,town,hire_rate,positive_value_1,positive_value_2,positive_value_3,negative_value_1,negative_value_2,negative_value_3,industry,website
+Triple-S Management,Healthcare,Guaynabo,Low,Convenient,Convenient,Compassionate,Costly,Limited,Costly,Healthcare,Null
+GFR Media,Restaurant,Guaynabo,Medium,Trustworthy,Accessible,Technologically Advanced,Restrictive,Noisy,Inconvenient,Banking,Null
+Evertec,Media,Guaynabo,Low,Technologically Advanced,Professional,Influential,Complex,Inconvenient,Limited,Banking,Null
+Liberty Puerto Rico,Healthcare,Guaynabo,Medium,Reliable,Fast,Technologically Advanced,Pricy,Noisy,Unsafe,Healthcare,Null
+Banco Popular,Telecommunications,Guaynabo,Medium,Compassionate,Fast,Customer-Centric,Competitive,Limited,Unhygienic,Banking,https://www.verizon.com/
+Banco Popular,IT Services,Guaynabo,Medium,Professional,Friendly,Caring,Unsafe,Competitive,Confusing,Banking,Null
+City View Plaza,Healthcare,Guaynabo,Medium,Caring,Professional,Caring,Difficult,Confusing,Unhygienic,IT,Null
+Baxter Healthcare,Industrial Park,Guaynabo,High,Compassionate,Reliable,Supportive,Costly,Risky,Expensive,Real Estate,Null
+Claro Puerto Rico,Office Complex,Guaynabo,Low,Convenient,Connected,Compassionate,Restrictive,Limited,Overcrowded,Healthcare,https://www.baxter.com/
+Triple-S Management,Restaurant,Guaynabo,High,Customer-Centric,Influential,Technologically Advanced,Slow,Pricy,Pricy,Telecommunications,https://www.ssspr.com/
+Universal Insurance,Logistics,Guaynabo,High,Caring,Accessible,Supportive,Unavailable,Noisy,Limited,IT,Null
+Universal Insurance,Insurance,Guaynabo,High,Caring,Reliable,Customer-Centric,Expensive,Confusing,Pricy,Healthcare,https://www.att.com/
+Evertec,Restaurant,Guaynabo,Low,Accessible,Friendly,Accessible,Oversaturated,Overcrowded,Confusing,Telecommunications,Null
+City View Plaza,Industrial Park,Guaynabo,High,Efficient,Empathetic,Fast,Difficult,Confusing,Complicated,Telecommunications,Null
+Johnson & Johnson,Pharmaceutical,Guaynabo,High,Empathetic,Innovative,Supportive,Limited,Unsafe,Complicated,Commercial,Null
+Unicity Puerto Rico,Telecommunications,Guaynabo,High,Stable,Creative,Accessible,Unpredictable,Unpredictable,Unsafe,Transportation,Null
+Claro Puerto Rico,Restaurant,Guaynabo,Low,Trustworthy,Stable,Customer-Centric,Overcrowded,Confusing,Inconvenient,Commercial,Null
+Unicity Puerto Rico,Fast Food,Guaynabo,Low,Connected,Trustworthy,Efficient,Inconvenient,Unpredictable,Complicated,Healthcare,https://www.gfrmedia.com/
+Claro Puerto Rico,Insurance,Guaynabo,Low,Supportive,Efficient,Technologically Advanced,Unsafe,Inconvenient,Oversaturated,Pharmaceutical,https://www.microsoft.com/
+Rexco Industrial Park,Wholesale,Guaynabo,Low,Innovative,Convenient,Caring,Confusing,Unsafe,Unavailable,Commercial,https://www.evertecinc.com/
+Microsoft Puerto Rico,Restaurant,Guaynabo,Low,Customer-Centric,Convenient,Customer-Centric,Limited,Expensive,Noisy,Insurance,Null
+Johnson & Johnson,Wholesale,Guaynabo,Low,Trustworthy,Trustworthy,Technologically Advanced,Costly,Expensive,Expensive,Healthcare,https://www.burgerkingpr.com/
+Microsoft Puerto Rico,Telecommunications,Guaynabo,Medium,Technologically Advanced,Trustworthy,Friendly,Oversaturated,Unhygienic,Restrictive,Commercial,Null
+Microsoft Puerto Rico,Office Complex,Guaynabo,Low,Creative,Accessible,Reliable,Overcrowded,Slow,Complicated,Transportation,https://www.burgerkingpr.com/
+Universal Insurance,Telecommunications,Guaynabo,Low,Innovative,Friendly,Innovative,Difficult,Complex,Complicated,Real Estate,https://www.jnj.com/
+Burger King,Insurance,Guaynabo,Low,Customer-Centric,Technologically Advanced,Connected,Oversaturated,Competitive,Risky,Real Estate,https://www.evertecinc.com/
+SARCO,Wholesale,Guaynabo,High,Accessible,Creative,Stable,Noisy,Limited,Risky,Transportation,https://www.popular.com/
+Universal Insurance,Office Complex,Guaynabo,High,Innovative,Empathetic,Compassionate,Overcrowded,Complicated,Inconvenient,Pharmaceutical,Null
+City View Plaza,Bank,Guaynabo,High,Fast,Connected,Empathetic,Complicated,Competitive,Unavailable,Banking,https://www.ssspr.com/
+GFR Media,Fast Food,Guaynabo,High,Friendly,Efficient,Technologically Advanced,Unhygienic,Expensive,Difficult,Telecommunications,https://www.evertecinc.com/
+FirstBank Puerto Rico,Media,Guaynabo,Low,Connected,Fast,Friendly,Unsafe,Inconvenient,Inconvenient,Insurance,https://www.claropr.com/
+Claro Puerto Rico,Telecommunications,Guaynabo,High,Creative,Compassionate,Friendly,Difficult,Risky,Noisy,Media,Null
+FirstBank Puerto Rico,Office Complex,Guaynabo,Medium,Accessible,Reliable,Innovative,Unpredictable,Oversaturated,Complex,Healthcare,https://www.gfrmedia.com/
+Pfizer,Telecommunications,Guaynabo,Low,Compassionate,Professional,Accessible,Overcrowded,Overcrowded,Costly,Banking,Null
+GFR Media,Logistics,Guaynabo,Medium,Creative,Reliable,Convenient,Expensive,Expensive,Unavailable,Commercial,Null
+Microsoft Puerto Rico,IT Services,Guaynabo,Medium,Creative,Technologically Advanced,Empathetic,Overcrowded,Pricy,Risky,Commercial,Null
+Universal Insurance,Telecommunications,Guaynabo,High,Technologically Advanced,Compassionate,Customer-Centric,Unpredictable,Inconvenient,Unsafe,Real Estate,https://www.pfizer.com/
+Johnson & Johnson,Pharmaceutical,Guaynabo,High,Compassionate,Caring,Connected,Unavailable,Oversaturated,Unsafe,Food,https://www.microsoft.com/
+City View Plaza,Telecommunications,Guaynabo,Low,Supportive,Influential,Friendly,Unavailable,Unavailable,Oversaturated,Insurance,Null
+FirstBank Puerto Rico,Pharmaceutical,Guaynabo,High,Customer-Centric,Organized,Efficient,Inconvenient,Slow,Unhygienic,IT,https://www.claropr.com/
+Liberty Puerto Rico,Bank,Guaynabo,Low,Organized,Organized,Connected,Slow,Risky,Costly,Commercial,Null
+Verizon Puerto Rico,Restaurant,Guaynabo,Medium,Organized,Trustworthy,Connected,Costly,Slow,Overcrowded,Healthcare,https://www.jnj.com/
+Universal Insurance,Fast Food,Guaynabo,Medium,Reliable,Reliable,Customer-Centric,Difficult,Pricy,Inconvenient,Commercial,https://www.claropr.com/
+Interstate Batteries,Telecommunications,Guaynabo,Medium,Innovative,Influential,Caring,Unsafe,Pricy,Oversaturated,Banking,https://www.ssspr.com/
+Liberty Puerto Rico,IT Services,Guaynabo,High,Customer-Centric,Caring,Supportive,Unavailable,Oversaturated,Risky,Commercial,Null
+GFR Media,Bank,Guaynabo,High,Stable,Convenient,Friendly,Unavailable,Unsafe,Unsafe,Commercial,Null
+Universal Insurance,Telecommunications,Guaynabo,Medium,Convenient,Reliable,Organized,Unpredictable,Complex,Expensive,Transportation,Null
+Baxter Healthcare,Pharmaceutical,Guaynabo,Low,Efficient,Customer-Centric,Influential,Expensive,Restrictive,Competitive,Healthcare,https://www.verizon.com/
+Rexco Industrial Park,Telecommunications,Guaynabo,Low,Fast,Trustworthy,Convenient,Expensive,Unavailable,Expensive,Telecommunications,https://www.claropr.com/
+FirstBank Puerto Rico,Fast Food,Guaynabo,Medium,Compassionate,Influential,Convenient,Pricy,Inconvenient,Pricy,Transportation,https://www.microsoft.com/
+SARCO,Bank,Guaynabo,Low,Technologically Advanced,Efficient,Empathetic,Competitive,Unavailable,Oversaturated,Automotive,https://www.cityviewplaza.com/
+Baxter Healthcare,Insurance,Guaynabo,High,Friendly,Efficient,Organized,Slow,Inconvenient,Confusing,Real Estate,Null
+SARCO,Restaurant,Guaynabo,Medium,Fast,Friendly,Connected,Pricy,Expensive,Unpredictable,Banking,https://www.att.com/
+AT&T Puerto Rico,Office Complex,Guaynabo,Low,Supportive,Convenient,Technologically Advanced,Unhygienic,Overcrowded,Inconvenient,Media,https://www.att.com/
+Unicity Puerto Rico,Industrial Park,Guaynabo,High,Professional,Friendly,Influential,Limited,Complex,Complicated,Real Estate,https://www.cityviewplaza.com/
+Rexco Industrial Park,Media,Guaynabo,Medium,Reliable,Organized,Professional,Restrictive,Confusing,Unpredictable,Real Estate,https://www.1firstbank.com/
+Interstate Batteries,Insurance,Guaynabo,High,Organized,Caring,Accessible,Overcrowded,Unavailable,Complicated,Banking,https://www.pfizer.com/
+Interstate Batteries,IT Services,Guaynabo,Low,Efficient,Supportive,Innovative,Complex,Competitive,Pricy,Commercial,Null
+Interstate Batteries,IT Services,Guaynabo,Medium,Efficient,Accessible,Influential,Noisy,Pricy,Risky,Insurance,Null
+FirstBank Puerto Rico,Insurance,Guaynabo,Low,Reliable,Convenient,Caring,Costly,Confusing,Restrictive,Automotive,https://www.claropr.com/
+Liberty Puerto Rico,Fast Food,Guaynabo,Medium,Convenient,Fast,Organized,Overcrowded,Inconvenient,Pricy,Real Estate,Null
+Triple-S Management,Healthcare,Guaynabo,Low,Compassionate,Convenient,Technologically Advanced,Complicated,Noisy,Unsafe,Healthcare,https://www.libertypr.com/
+City View Plaza,Pharmaceutical,Guaynabo,Low,Stable,Reliable,Accessible,Complex,Difficult,Complicated,IT,Null
+Interstate Batteries,Industrial Park,Guaynabo,Low,Connected,Innovative,Organized,Expensive,Noisy,Pricy,Commercial,Null
+SARCO,Telecommunications,Guaynabo,Low,Stable,Technologically Advanced,Trustworthy,Pricy,Overcrowded,Noisy,Insurance,https://www.universalpr.com/
+GFR Media,Insurance,Guaynabo,Medium,Trustworthy,Organized,Reliable,Expensive,Limited,Complicated,Media,https://www.att.com/
+Banco Popular,Telecommunications,Guaynabo,Medium,Technologically Advanced,Efficient,Creative,Oversaturated,Confusing,Difficult,IT,https://www.popular.com/
+Unicity Puerto Rico,Media,Guaynabo,Low,Stable,Connected,Empathetic,Complex,Unavailable,Unpredictable,Media,Null
+Verizon Puerto Rico,Bank,Guaynabo,Medium,Stable,Empathetic,Connected,Expensive,Risky,Confusing,Media,https://www.evertecinc.com/
+Evertec,Fast Food,Guaynabo,Medium,Convenient,Professional,Supportive,Risky,Complicated,Unpredictable,Telecommunications,https://www.jnj.com/
+Johnson & Johnson,Wholesale,Guaynabo,High,Professional,Supportive,Creative,Restrictive,Limited,Costly,Insurance,Null
+Banco Popular,Wholesale,Guaynabo,Low,Compassionate,Creative,Convenient,Oversaturated,Limited,Difficult,Transportation,Null
+Claro Puerto Rico,Office Complex,Guaynabo,Low,Connected,Creative,Trustworthy,Noisy,Restrictive,Noisy,Real Estate,https://www.universalpr.com/
+FirstBank Puerto Rico,Industrial Park,Guaynabo,Medium,Connected,Connected,Customer-Centric,Oversaturated,Competitive,Noisy,Pharmaceutical,Null
+Burger King,Restaurant,Guaynabo,Low,Compassionate,Professional,Compassionate,Complicated,Inconvenient,Difficult,Automotive,Null
+FirstBank Puerto Rico,Bank,Guaynabo,Low,Influential,Innovative,Reliable,Inconvenient,Limited,Unhygienic,Food,Null
+Microsoft Puerto Rico,Telecommunications,Guaynabo,High,Stable,Innovative,Reliable,Inconvenient,Unavailable,Unavailable,Real Estate,https://www.pfizer.com/
+Pfizer,Telecommunications,Guaynabo,Medium,Technologically Advanced,Empathetic,Trustworthy,Unsafe,Competitive,Limited,Commercial,Null
+Microsoft Puerto Rico,Healthcare,Guaynabo,Medium,Professional,Influential,Fast,Difficult,Complicated,Expensive,Commercial,https://www.claropr.com/
+Universal Insurance,Pharmaceutical,Guaynabo,Medium,Friendly,Professional,Organized,Complex,Pricy,Overcrowded,Real Estate,Null
+Burger King,Restaurant,Guaynabo,Low,Influential,Fast,Efficient,Inconvenient,Unavailable,Inconvenient,Transportation,https://www.evertecinc.com/
+Johnson & Johnson,Fast Food,Guaynabo,High,Reliable,Influential,Compassionate,Unpredictable,Expensive,Noisy,Telecommunications,https://www.gfrmedia.com/
+Interstate Batteries,IT Services,Guaynabo,Medium,Organized,Compassionate,Fast,Complicated,Oversaturated,Competitive,Media,https://www.evertecinc.com/
+Verizon Puerto Rico,Healthcare,Guaynabo,Low,Caring,Caring,Innovative,Risky,Competitive,Unavailable,Insurance,Null
+Johnson & Johnson,Media,Guaynabo,Medium,Friendly,Reliable,Friendly,Inconvenient,Pricy,Restrictive,Food,https://www.claropr.com/
+Liberty Puerto Rico,Healthcare,Guaynabo,High,Professional,Influential,Accessible,Competitive,Unsafe,Unavailable,Telecommunications,Null
+Liberty Puerto Rico,Industrial Park,Guaynabo,Medium,Stable,Influential,Technologically Advanced,Oversaturated,Overcrowded,Costly,Food,https://www.att.com/
+City View Plaza,Telecommunications,Guaynabo,High,Customer-Centric,Professional,Customer-Centric,Pricy,Unavailable,Complicated,Media,Null
+Pfizer,Industrial Park,Guaynabo,High,Fast,Convenient,Friendly,Overcrowded,Overcrowded,Expensive,Insurance,Null
+Universal Insurance,Telecommunications,Guaynabo,High,Accessible,Caring,Technologically Advanced,Complex,Slow,Unpredictable,Media,https://www.baxter.com/
+Unicity Puerto Rico,Restaurant,Guaynabo,Low,Trustworthy,Empathetic,Stable,Noisy,Noisy,Unhygienic,Pharmaceutical,https://www.popular.com/
+Claro Puerto Rico,Telecommunications,Guaynabo,Medium,Influential,Technologically Advanced,Convenient,Slow,Confusing,Costly,Insurance,Null
+Universal Insurance,Telecommunications,Guaynabo,High,Supportive,Organized,Innovative,Risky,Pricy,Restrictive,Automotive,Null
+AT&T Puerto Rico,Insurance,Guaynabo,Medium,Innovative,Trustworthy,Empathetic,Unhygienic,Difficult,Unhygienic,IT,Null
+Claro Puerto Rico,Bank,Guaynabo,High,Technologically Advanced,Empathetic,Accessible,Costly,Unhygienic,Overcrowded,Automotive,https://www.popular.com/
+Liberty Puerto Rico,Fast Food,Guaynabo,Medium,Connected,Supportive,Organized,Slow,Expensive,Unpredictable,Healthcare,https://www.microsoft.com/
+Pfizer,Telecommunications,Guaynabo,Medium,Reliable,Compassionate,Customer-Centric,Unavailable,Inconvenient,Overcrowded,Media,https://www.microsoft.com/
+Banco Popular,Telecommunications,Guaynabo,High,Connected,Innovative,Professional,Competitive,Unpredictable,Noisy,Insurance,Null
+City View Plaza,Logistics,Guaynabo,High,Empathetic,Customer-Centric,Compassionate,Confusing,Restrictive,Unsafe,Food,https://www.cityviewplaza.com/
+Universal Insurance,Bank,Guaynabo,Medium,Fast,Innovative,Empathetic,Slow,Expensive,Oversaturated,Real Estate,Null
+Company E,Healthcare,Bayamon,High,Convenient,Professional,Trustworthy,Inconvenient,Slow,Complex,Hospitality,Null
+Company E,Retail,Ponce,Low,Trustworthy,Innovative,Professional,Noisy,Noisy,Complex,Finance,https://www.example.com
+Company B,Finance,Guaynabo,High,Professional,Innovative,Innovative,Complex,Slow,Complex,Retail,https://www.example.com
+Company A,Finance,Caguas,Low,Convenient,Innovative,Reliable,Slow,Expensive,Expensive,Technology,Null
+Company D,Retail,Ponce,Medium,Trustworthy,Professional,Innovative,Noisy,Slow,Slow,Retail,https://www.example.com
+Company A,Finance,Ponce,Low,Trustworthy,Convenient,Reliable,Noisy,Expensive,Expensive,Healthcare,https://www.example.com
+Company E,Technology,San Juan,Low,Convenient,Professional,Professional,Inconvenient,Slow,Expensive,Retail,Null
+Company E,Retail,Bayamon,Medium,Reliable,Reliable,Reliable,Inconvenient,Inconvenient,Complex,Healthcare,Null
+Company E,Retail,San Juan,Low,Reliable,Convenient,Convenient,Slow,Inconvenient,Expensive,Finance,Null
+Company A,Restaurant,Ponce,High,Innovative,Convenient,Reliable,Expensive,Inconvenient,Expensive,Retail,https://www.example.com
+Company D,Finance,Guaynabo,High,Professional,Trustworthy,Trustworthy,Slow,Noisy,Complex,Finance,https://www.example.com
+Company A,Restaurant,San Juan,High,Trustworthy,Innovative,Trustworthy,Complex,Inconvenient,Inconvenient,Technology,https://www.example.com
+Company C,Restaurant,Bayamon,High,Innovative,Convenient,Professional,Expensive,Expensive,Noisy,Healthcare,Null
+Company B,Technology,Caguas,High,Convenient,Innovative,Trustworthy,Complex,Noisy,Noisy,Healthcare,Null
+Company D,Technology,Caguas,Low,Innovative,Reliable,Reliable,Inconvenient,Noisy,Noisy,Retail,Null
+Company B,Healthcare,Bayamon,Medium,Reliable,Professional,Trustworthy,Inconvenient,Inconvenient,Slow,Healthcare,https://www.example.com
+Company A,Retail,Caguas,Medium,Professional,Reliable,Professional,Complex,Inconvenient,Complex,Technology,Null
+Company C,Technology,Guaynabo,Medium,Convenient,Convenient,Reliable,Expensive,Complex,Inconvenient,Finance,https://www.example.com
+Company A,Finance,San Juan,Medium,Innovative,Trustworthy,Convenient,Complex,Complex,Slow,Finance,https://www.example.com
+Company E,Retail,Bayamon,High,Reliable,Reliable,Convenient,Complex,Complex,Noisy,Retail,Null
+Company B,Retail,Ponce,Low,Innovative,Innovative,Convenient,Noisy,Expensive,Slow,Healthcare,Null
+Company C,Retail,Guaynabo,Medium,Trustworthy,Trustworthy,Trustworthy,Expensive,Slow,Expensive,Healthcare,Null
+Company B,Finance,Guaynabo,Medium,Reliable,Reliable,Professional,Slow,Complex,Complex,Healthcare,Null
+Company E,Restaurant,San Juan,Medium,Professional,Reliable,Convenient,Inconvenient,Expensive,Slow,Healthcare,https://www.example.com
+Company D,Restaurant,San Juan,Medium,Reliable,Convenient,Convenient,Noisy,Slow,Noisy,Finance,https://www.example.com
+Company A,Technology,Ponce,High,Professional,Trustworthy,Innovative,Inconvenient,Expensive,Complex,Technology,Null
+Company D,Healthcare,Ponce,Medium,Innovative,Innovative,Reliable,Slow,Slow,Slow,Retail,https://www.example.com
+Company A,Retail,San Juan,High,Trustworthy,Convenient,Trustworthy,Complex,Inconvenient,Inconvenient,Technology,https://www.example.com
+Company A,Finance,Guaynabo,Low,Trustworthy,Reliable,Convenient,Slow,Noisy,Noisy,Healthcare,Null
+Company D,Restaurant,Caguas,High,Trustworthy,Trustworthy,Trustworthy,Slow,Slow,Slow,Retail,https://www.example.com
+Company D,Finance,Caguas,High,Convenient,Reliable,Innovative,Complex,Complex,Noisy,Healthcare,Null
+Company E,Healthcare,Guaynabo,Low,Convenient,Innovative,Reliable,Expensive,Complex,Slow,Retail,https://www.example.com
+Company C,Healthcare,Guaynabo,Medium,Innovative,Trustworthy,Reliable,Slow,Expensive,Expensive,Retail,Null
+Company E,Restaurant,San Juan,Medium,Convenient,Professional,Reliable,Complex,Noisy,Complex,Technology,https://www.example.com
+Company B,Retail,San Juan,Medium,Trustworthy,Trustworthy,Innovative,Complex,Noisy,Noisy,Technology,https://www.example.com
+Company B,Retail,San Juan,Low,Convenient,Convenient,Trustworthy,Slow,Slow,Noisy,Finance,https://www.example.com
+Company C,Retail,San Juan,Low,Reliable,Professional,Trustworthy,Expensive,Expensive,Expensive,Healthcare,https://www.example.com
+Company C,Technology,Caguas,High,Convenient,Reliable,Convenient,Noisy,Complex,Slow,Retail,https://www.example.com
+Company E,Finance,Ponce,Low,Trustworthy,Reliable,Convenient,Noisy,Expensive,Complex,Healthcare,Null
+Company A,Finance,Bayamon,High,Trustworthy,Convenient,Convenient,Noisy,Inconvenient,Inconvenient,Technology,Null
+Company A,Finance,Bayamon,Medium,Reliable,Convenient,Innovative,Noisy,Slow,Expensive,Technology,https://www.example.com
+Company D,Finance,San Juan,Medium,Convenient,Innovative,Trustworthy,Complex,Expensive,Expensive,Technology,https://www.example.com
+Company E,Finance,Guaynabo,Medium,Convenient,Reliable,Reliable,Slow,Slow,Expensive,Healthcare,https://www.example.com
+Company E,Healthcare,Caguas,Low,Innovative,Trustworthy,Convenient,Expensive,Complex,Complex,Healthcare,Null
+Company D,Finance,San Juan,Low,Reliable,Convenient,Trustworthy,Complex,Slow,Inconvenient,Hospitality,https://www.example.com
+Company B,Retail,Guaynabo,High,Trustworthy,Innovative,Innovative,Slow,Complex,Slow,Finance,https://www.example.com
+Company A,Restaurant,Bayamon,Low,Convenient,Trustworthy,Professional,Inconvenient,Inconvenient,Expensive,Retail,https://www.example.com
+Company C,Restaurant,Caguas,High,Convenient,Reliable,Trustworthy,Expensive,Expensive,Expensive,Technology,Null
+Company C,Retail,Ponce,High,Convenient,Convenient,Reliable,Slow,Expensive,Noisy,Healthcare,Null
+Company D,Technology,Guaynabo,Medium,Reliable,Trustworthy,Convenient,Expensive,Complex,Complex,Technology,https://www.example.com
+Company E,Healthcare,Bayamon,High,Trustworthy,Professional,Convenient,Inconvenient,Expensive,Noisy,Healthcare,https://www.example.com
+Company A,Healthcare,San Juan,High,Reliable,Innovative,Trustworthy,Noisy,Inconvenient,Complex,Technology,Null
+Company E,Finance,Ponce,Low,Convenient,Convenient,Convenient,Complex,Expensive,Expensive,Retail,https://www.example.com
+Company B,Technology,Guaynabo,Medium,Convenient,Innovative,Trustworthy,Inconvenient,Slow,Complex,Healthcare,Null
+Company E,Retail,San Juan,Medium,Reliable,Innovative,Professional,Noisy,Complex,Slow,Finance,https://www.example.com
+Company E,Retail,Ponce,Low,Reliable,Convenient,Convenient,Inconvenient,Expensive,Expensive,Healthcare,https://www.example.com
+Company C,Finance,Caguas,Low,Innovative,Trustworthy,Innovative,Slow,Complex,Inconvenient,Finance,Null
+Company E,Finance,Guaynabo,Low,Trustworthy,Convenient,Trustworthy,Complex,Expensive,Expensive,Technology,https://www.example.com
+Company B,Finance,Ponce,High,Innovative,Convenient,Convenient,Inconvenient,Complex,Slow,Retail,https://www.example.com
+Company C,Restaurant,Bayamon,Low,Innovative,Trustworthy,Innovative,Noisy,Complex,Inconvenient,Finance,https://www.example.com
+Company B,Technology,Bayamon,Medium,Convenient,Innovative,Professional,Noisy,Expensive,Complex,Hospitality,Null
+Company B,Retail,Ponce,High,Innovative,Professional,Professional,Expensive,Slow,Complex,Healthcare,https://www.example.com
+Company C,Technology,Ponce,High,Reliable,Professional,Reliable,Slow,Complex,Inconvenient,Hospitality,Null
+Company D,Retail,Bayamon,Low,Convenient,Professional,Reliable,Complex,Complex,Inconvenient,Hospitality,https://www.example.com
+Company C,Restaurant,Guaynabo,Low,Innovative,Convenient,Innovative,Expensive,Expensive,Slow,Finance,Null
+Company C,Finance,Guaynabo,High,Convenient,Professional,Reliable,Noisy,Complex,Slow,Technology,https://www.example.com
+Company E,Healthcare,San Juan,Low,Innovative,Convenient,Professional,Expensive,Slow,Inconvenient,Hospitality,Null
+Company E,Healthcare,Guaynabo,Medium,Professional,Reliable,Reliable,Noisy,Noisy,Slow,Finance,Null
+Company B,Healthcare,Ponce,High,Professional,Convenient,Reliable,Complex,Complex,Slow,Technology,Null
+Company C,Restaurant,Bayamon,High,Reliable,Professional,Trustworthy,Inconvenient,Noisy,Noisy,Finance,https://www.example.com
+Company E,Finance,Ponce,Low,Trustworthy,Reliable,Innovative,Expensive,Noisy,Noisy,Finance,Null
+Company E,Healthcare,San Juan,High,Professional,Trustworthy,Professional,Inconvenient,Complex,Complex,Hospitality,https://www.example.com
+Company B,Healthcare,San Juan,Medium,Innovative,Convenient,Convenient,Expensive,Inconvenient,Noisy,Retail,Null
+Company B,Finance,San Juan,Medium,Innovative,Trustworthy,Professional,Slow,Complex,Expensive,Hospitality,https://www.example.com
+Company B,Restaurant,San Juan,Low,Trustworthy,Professional,Innovative,Slow,Slow,Noisy,Finance,Null
+Company E,Retail,San Juan,Low,Professional,Reliable,Reliable,Complex,Inconvenient,Slow,Technology,Null
+Company B,Technology,Caguas,Low,Reliable,Professional,Innovative,Slow,Expensive,Noisy,Technology,Null
+Company A,Finance,Caguas,Medium,Professional,Trustworthy,Innovative,Slow,Noisy,Inconvenient,Retail,https://www.example.com
+Company B,Restaurant,Guaynabo,High,Innovative,Convenient,Trustworthy,Slow,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company A,Retail,Ponce,Low,Reliable,Convenient,Professional,Slow,Noisy,Slow,Healthcare,https://www.example.com
+Company C,Restaurant,Caguas,Medium,Professional,Trustworthy,Trustworthy,Slow,Slow,Inconvenient,Technology,https://www.example.com
+Company C,Finance,Ponce,High,Trustworthy,Convenient,Professional,Expensive,Expensive,Expensive,Retail,Null
+Company E,Technology,Guaynabo,Medium,Reliable,Innovative,Professional,Noisy,Noisy,Expensive,Hospitality,https://www.example.com
+Company E,Healthcare,Bayamon,Low,Professional,Trustworthy,Trustworthy,Expensive,Slow,Inconvenient,Technology,https://www.example.com
+Company C,Finance,Caguas,Medium,Convenient,Professional,Convenient,Slow,Expensive,Noisy,Finance,https://www.example.com
+Company E,Retail,Guaynabo,High,Professional,Innovative,Reliable,Expensive,Noisy,Noisy,Healthcare,Null
+Company D,Restaurant,Guaynabo,Medium,Innovative,Professional,Innovative,Inconvenient,Complex,Inconvenient,Technology,Null
+Company D,Finance,Ponce,Low,Innovative,Reliable,Trustworthy,Noisy,Slow,Noisy,Healthcare,https://www.example.com
+Company B,Retail,San Juan,Medium,Reliable,Convenient,Trustworthy,Slow,Expensive,Slow,Healthcare,https://www.example.com
+Company C,Healthcare,Caguas,Low,Trustworthy,Reliable,Reliable,Slow,Noisy,Complex,Finance,Null
+Company C,Healthcare,Ponce,High,Trustworthy,Trustworthy,Reliable,Slow,Expensive,Complex,Retail,Null
+Company E,Restaurant,Ponce,Low,Professional,Professional,Reliable,Slow,Slow,Complex,Healthcare,https://www.example.com
+Company A,Retail,Guaynabo,Medium,Professional,Innovative,Innovative,Slow,Expensive,Complex,Technology,Null
+Company C,Healthcare,Ponce,Medium,Convenient,Innovative,Convenient,Inconvenient,Inconvenient,Complex,Finance,Null
+Company B,Restaurant,Bayamon,Medium,Innovative,Convenient,Innovative,Expensive,Expensive,Expensive,Retail,https://www.example.com
+Company D,Retail,Ponce,Medium,Innovative,Convenient,Convenient,Expensive,Noisy,Noisy,Healthcare,https://www.example.com
+Company A,Restaurant,Bayamon,Medium,Innovative,Reliable,Convenient,Complex,Expensive,Slow,Hospitality,https://www.example.com
+Company E,Finance,San Juan,High,Reliable,Innovative,Professional,Inconvenient,Noisy,Complex,Technology,https://www.example.com
+Company A,Finance,Ponce,High,Trustworthy,Reliable,Reliable,Inconvenient,Complex,Inconvenient,Retail,Null
+Company C,Restaurant,San Juan,Medium,Trustworthy,Reliable,Innovative,Inconvenient,Inconvenient,Slow,Finance,https://www.example.com
+Company C,Finance,Ponce,Medium,Convenient,Innovative,Convenient,Noisy,Slow,Complex,Finance,https://www.example.com
+Company B,Technology,Caguas,Medium,Innovative,Trustworthy,Convenient,Expensive,Slow,Slow,Healthcare,https://www.example.com
+Company A,Healthcare,Ponce,Low,Trustworthy,Innovative,Trustworthy,Noisy,Noisy,Noisy,Hospitality,Null
+Company D,Technology,Guaynabo,High,Professional,Innovative,Professional,Expensive,Complex,Complex,Hospitality,Null
+Company D,Finance,Guaynabo,Medium,Trustworthy,Trustworthy,Reliable,Expensive,Expensive,Complex,Healthcare,https://www.example.com
+Company E,Retail,Ponce,Medium,Reliable,Innovative,Professional,Noisy,Complex,Noisy,Technology,https://www.example.com
+Company C,Retail,Caguas,Medium,Professional,Convenient,Reliable,Inconvenient,Inconvenient,Inconvenient,Technology,https://www.example.com
+Company E,Restaurant,Ponce,High,Professional,Convenient,Trustworthy,Expensive,Slow,Slow,Healthcare,Null
+Company C,Restaurant,Guaynabo,High,Convenient,Professional,Professional,Slow,Expensive,Inconvenient,Technology,Null
+Company D,Healthcare,Bayamon,Low,Innovative,Reliable,Professional,Inconvenient,Slow,Noisy,Healthcare,https://www.example.com
+Company B,Restaurant,Ponce,High,Convenient,Convenient,Reliable,Inconvenient,Noisy,Complex,Technology,https://www.example.com
+Company C,Retail,Caguas,Low,Professional,Convenient,Professional,Slow,Slow,Expensive,Retail,Null
+Company C,Finance,Guaynabo,High,Reliable,Trustworthy,Reliable,Complex,Noisy,Complex,Retail,https://www.example.com
+Company D,Retail,Ponce,High,Innovative,Professional,Innovative,Slow,Noisy,Inconvenient,Hospitality,https://www.example.com
+Company E,Technology,Ponce,High,Trustworthy,Reliable,Convenient,Slow,Expensive,Noisy,Technology,Null
+Company E,Finance,Ponce,High,Convenient,Reliable,Reliable,Expensive,Slow,Slow,Healthcare,https://www.example.com
+Company B,Restaurant,Bayamon,High,Innovative,Reliable,Innovative,Slow,Expensive,Slow,Technology,https://www.example.com
+Company C,Technology,Guaynabo,Low,Professional,Professional,Convenient,Slow,Slow,Complex,Healthcare,Null
+Company D,Finance,Caguas,Medium,Innovative,Professional,Convenient,Slow,Noisy,Slow,Finance,Null
+Company B,Technology,Guaynabo,Medium,Innovative,Trustworthy,Innovative,Complex,Expensive,Expensive,Hospitality,Null
+Company B,Retail,Caguas,High,Innovative,Convenient,Professional,Noisy,Inconvenient,Slow,Healthcare,https://www.example.com
+Company E,Healthcare,Bayamon,Low,Innovative,Professional,Convenient,Noisy,Expensive,Noisy,Finance,https://www.example.com
+Company E,Retail,Guaynabo,High,Reliable,Professional,Innovative,Complex,Inconvenient,Complex,Retail,Null
+Company A,Retail,Guaynabo,Low,Innovative,Trustworthy,Professional,Inconvenient,Complex,Complex,Technology,https://www.example.com
+Company E,Retail,San Juan,Medium,Innovative,Innovative,Professional,Inconvenient,Complex,Noisy,Retail,Null
+Company C,Finance,Guaynabo,Medium,Convenient,Reliable,Reliable,Complex,Inconvenient,Inconvenient,Hospitality,Null
+Company E,Technology,San Juan,Medium,Professional,Innovative,Trustworthy,Expensive,Complex,Inconvenient,Hospitality,Null
+Company C,Technology,Bayamon,Low,Innovative,Trustworthy,Reliable,Expensive,Complex,Complex,Healthcare,https://www.example.com
+Company E,Restaurant,Guaynabo,High,Trustworthy,Innovative,Convenient,Complex,Expensive,Expensive,Healthcare,https://www.example.com
+Company A,Healthcare,Ponce,Low,Convenient,Professional,Convenient,Expensive,Noisy,Complex,Finance,https://www.example.com
+Company D,Finance,Bayamon,Medium,Innovative,Reliable,Professional,Inconvenient,Noisy,Slow,Hospitality,Null
+Company C,Restaurant,Caguas,Medium,Convenient,Innovative,Reliable,Expensive,Complex,Complex,Finance,https://www.example.com
+Company A,Finance,San Juan,High,Trustworthy,Innovative,Innovative,Noisy,Inconvenient,Expensive,Hospitality,https://www.example.com
+Company B,Restaurant,San Juan,Medium,Trustworthy,Innovative,Convenient,Expensive,Inconvenient,Noisy,Hospitality,Null
+Company A,Technology,Bayamon,Low,Trustworthy,Reliable,Innovative,Slow,Inconvenient,Inconvenient,Healthcare,Null
+Company C,Retail,Bayamon,High,Trustworthy,Trustworthy,Professional,Inconvenient,Slow,Expensive,Technology,Null
+Company C,Healthcare,Bayamon,High,Reliable,Professional,Trustworthy,Inconvenient,Complex,Slow,Hospitality,Null
+Company E,Finance,Bayamon,Medium,Trustworthy,Innovative,Reliable,Slow,Complex,Noisy,Finance,Null
+Company D,Retail,Bayamon,High,Professional,Reliable,Trustworthy,Expensive,Complex,Inconvenient,Healthcare,Null
+Company B,Restaurant,Bayamon,High,Innovative,Professional,Convenient,Complex,Noisy,Noisy,Technology,https://www.example.com
+Company D,Retail,Guaynabo,High,Convenient,Reliable,Professional,Complex,Slow,Inconvenient,Hospitality,Null
+Company E,Healthcare,San Juan,Low,Trustworthy,Convenient,Professional,Complex,Noisy,Inconvenient,Healthcare,Null
+Company B,Technology,San Juan,Low,Trustworthy,Trustworthy,Trustworthy,Complex,Slow,Complex,Retail,https://www.example.com
+Company A,Healthcare,Guaynabo,Low,Trustworthy,Reliable,Professional,Slow,Expensive,Complex,Retail,Null
+Company B,Technology,Ponce,High,Reliable,Innovative,Professional,Slow,Noisy,Inconvenient,Technology,https://www.example.com
+Company E,Healthcare,Guaynabo,High,Professional,Professional,Convenient,Slow,Complex,Inconvenient,Technology,https://www.example.com
+Company A,Restaurant,Guaynabo,High,Trustworthy,Professional,Professional,Noisy,Complex,Complex,Technology,https://www.example.com
+Company A,Finance,Guaynabo,Medium,Trustworthy,Convenient,Reliable,Complex,Slow,Complex,Finance,Null
+Company B,Healthcare,Bayamon,Medium,Professional,Innovative,Trustworthy,Inconvenient,Inconvenient,Slow,Healthcare,https://www.example.com
+Company B,Retail,Bayamon,Medium,Convenient,Reliable,Convenient,Slow,Noisy,Inconvenient,Healthcare,https://www.example.com
+Company C,Technology,Guaynabo,Low,Innovative,Convenient,Trustworthy,Complex,Noisy,Expensive,Technology,https://www.example.com
+Company B,Retail,San Juan,High,Professional,Professional,Trustworthy,Noisy,Noisy,Expensive,Finance,Null
+Company B,Retail,Guaynabo,Low,Innovative,Innovative,Professional,Complex,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company E,Retail,San Juan,Low,Trustworthy,Trustworthy,Professional,Complex,Slow,Inconvenient,Finance,https://www.example.com
+Company E,Finance,Guaynabo,High,Trustworthy,Reliable,Trustworthy,Expensive,Complex,Expensive,Healthcare,https://www.example.com
+Company B,Healthcare,San Juan,Low,Professional,Innovative,Innovative,Complex,Inconvenient,Complex,Retail,https://www.example.com
+Company C,Restaurant,Guaynabo,Medium,Professional,Innovative,Trustworthy,Noisy,Expensive,Slow,Healthcare,https://www.example.com
+Company D,Restaurant,Bayamon,Medium,Convenient,Reliable,Innovative,Expensive,Expensive,Inconvenient,Retail,https://www.example.com
+Company A,Restaurant,Ponce,Medium,Innovative,Reliable,Convenient,Inconvenient,Inconvenient,Inconvenient,Retail,Null
+Company A,Technology,Caguas,High,Reliable,Trustworthy,Convenient,Expensive,Complex,Slow,Finance,Null
+Company A,Healthcare,Ponce,Medium,Convenient,Professional,Professional,Inconvenient,Complex,Inconvenient,Hospitality,https://www.example.com
+Company C,Finance,San Juan,Medium,Trustworthy,Professional,Professional,Complex,Complex,Complex,Technology,Null
+Company A,Restaurant,Guaynabo,High,Convenient,Professional,Professional,Inconvenient,Slow,Complex,Technology,https://www.example.com
+Company B,Technology,San Juan,High,Professional,Innovative,Professional,Inconvenient,Complex,Expensive,Retail,Null
+Company A,Technology,San Juan,Low,Trustworthy,Convenient,Innovative,Expensive,Noisy,Slow,Retail,https://www.example.com
+Company B,Retail,Guaynabo,Low,Innovative,Trustworthy,Trustworthy,Inconvenient,Complex,Noisy,Retail,Null
+Company A,Technology,San Juan,Medium,Convenient,Innovative,Innovative,Inconvenient,Noisy,Complex,Healthcare,https://www.example.com
+Company B,Finance,San Juan,High,Convenient,Professional,Trustworthy,Expensive,Noisy,Inconvenient,Technology,Null
+Company C,Healthcare,San Juan,Low,Innovative,Professional,Convenient,Inconvenient,Complex,Noisy,Healthcare,https://www.example.com
+Company A,Retail,Bayamon,Low,Convenient,Reliable,Trustworthy,Slow,Slow,Inconvenient,Healthcare,Null
+Company B,Retail,Guaynabo,Low,Professional,Professional,Convenient,Slow,Inconvenient,Slow,Healthcare,https://www.example.com
+Company D,Technology,Bayamon,High,Convenient,Convenient,Reliable,Inconvenient,Noisy,Expensive,Healthcare,https://www.example.com
+Company B,Finance,Caguas,High,Professional,Convenient,Innovative,Expensive,Expensive,Expensive,Finance,Null
+Company B,Healthcare,San Juan,High,Convenient,Trustworthy,Reliable,Complex,Inconvenient,Inconvenient,Retail,https://www.example.com
+Company B,Finance,Ponce,Low,Convenient,Convenient,Reliable,Expensive,Noisy,Slow,Hospitality,Null
+Company B,Healthcare,Bayamon,High,Reliable,Convenient,Innovative,Slow,Inconvenient,Expensive,Healthcare,https://www.example.com
+Company A,Retail,Bayamon,High,Professional,Reliable,Convenient,Expensive,Slow,Noisy,Healthcare,Null
+Company C,Technology,Guaynabo,Low,Professional,Innovative,Innovative,Inconvenient,Inconvenient,Inconvenient,Retail,Null
+Company B,Retail,Ponce,Low,Trustworthy,Innovative,Convenient,Noisy,Noisy,Noisy,Healthcare,Null
+Company C,Restaurant,Guaynabo,Medium,Trustworthy,Convenient,Reliable,Complex,Inconvenient,Noisy,Technology,Null
+Company D,Healthcare,San Juan,Medium,Reliable,Convenient,Innovative,Expensive,Complex,Inconvenient,Hospitality,https://www.example.com
+Company D,Retail,Ponce,Low,Innovative,Professional,Convenient,Slow,Inconvenient,Complex,Retail,Null
+Company E,Technology,Caguas,Medium,Trustworthy,Convenient,Professional,Slow,Complex,Inconvenient,Hospitality,Null
+Company D,Technology,Ponce,High,Professional,Convenient,Reliable,Slow,Noisy,Complex,Healthcare,https://www.example.com
+Company A,Retail,Guaynabo,High,Innovative,Convenient,Convenient,Slow,Expensive,Inconvenient,Retail,https://www.example.com
+Company B,Retail,San Juan,Medium,Reliable,Reliable,Trustworthy,Slow,Noisy,Complex,Hospitality,Null
+Company E,Finance,Ponce,Medium,Reliable,Convenient,Reliable,Noisy,Complex,Slow,Retail,Null
+Company D,Technology,Caguas,Medium,Convenient,Professional,Convenient,Noisy,Complex,Noisy,Finance,https://www.example.com
+Company E,Finance,Bayamon,Low,Reliable,Convenient,Innovative,Inconvenient,Slow,Complex,Finance,Null
+Company C,Technology,Guaynabo,High,Professional,Convenient,Innovative,Inconvenient,Expensive,Slow,Finance,https://www.example.com
+Company B,Restaurant,Guaynabo,Medium,Innovative,Trustworthy,Innovative,Expensive,Complex,Complex,Healthcare,https://www.example.com
+Company E,Retail,Guaynabo,High,Innovative,Innovative,Reliable,Complex,Complex,Noisy,Healthcare,Null
+Company B,Technology,San Juan,Low,Reliable,Professional,Reliable,Complex,Slow,Slow,Finance,https://www.example.com
+Company C,Retail,San Juan,High,Convenient,Innovative,Innovative,Complex,Inconvenient,Slow,Finance,Null
+Company D,Restaurant,Ponce,Low,Innovative,Professional,Convenient,Expensive,Inconvenient,Complex,Healthcare,Null
+Company B,Finance,Guaynabo,Medium,Reliable,Convenient,Reliable,Slow,Noisy,Slow,Finance,Null
+Company A,Finance,Guaynabo,Medium,Reliable,Reliable,Professional,Complex,Complex,Inconvenient,Healthcare,Null
+Company A,Finance,Bayamon,Medium,Trustworthy,Convenient,Innovative,Inconvenient,Expensive,Slow,Hospitality,https://www.example.com
+Company A,Technology,Bayamon,Low,Professional,Professional,Convenient,Complex,Complex,Noisy,Technology,https://www.example.com
+Company A,Retail,Caguas,High,Professional,Trustworthy,Innovative,Inconvenient,Expensive,Noisy,Healthcare,https://www.example.com
+Company C,Restaurant,San Juan,Low,Professional,Convenient,Reliable,Noisy,Expensive,Noisy,Technology,Null
+Company B,Restaurant,Bayamon,Low,Reliable,Reliable,Convenient,Slow,Noisy,Complex,Retail,https://www.example.com
+Company D,Retail,Ponce,Low,Reliable,Reliable,Convenient,Inconvenient,Complex,Slow,Finance,https://www.example.com
+Company B,Healthcare,San Juan,Medium,Professional,Professional,Professional,Noisy,Slow,Slow,Finance,Null
+Company A,Restaurant,Caguas,Low,Innovative,Convenient,Convenient,Complex,Complex,Complex,Technology,Null
+Company A,Technology,San Juan,Medium,Convenient,Reliable,Trustworthy,Inconvenient,Slow,Slow,Retail,https://www.example.com
+Company D,Finance,Guaynabo,Low,Reliable,Reliable,Reliable,Complex,Expensive,Complex,Hospitality,https://www.example.com
+Company E,Restaurant,Ponce,Medium,Innovative,Professional,Professional,Inconvenient,Expensive,Slow,Finance,Null
+Company B,Retail,San Juan,Low,Convenient,Reliable,Convenient,Slow,Complex,Complex,Finance,Null
+Company E,Retail,Ponce,Low,Professional,Innovative,Convenient,Noisy,Slow,Noisy,Technology,Null
+Company A,Healthcare,Caguas,High,Trustworthy,Innovative,Innovative,Expensive,Complex,Slow,Healthcare,Null
+Company D,Healthcare,Bayamon,Medium,Reliable,Innovative,Reliable,Slow,Slow,Expensive,Technology,Null
+Company E,Finance,Bayamon,Low,Reliable,Trustworthy,Innovative,Inconvenient,Slow,Expensive,Healthcare,https://www.example.com
+Company D,Healthcare,San Juan,High,Reliable,Convenient,Innovative,Noisy,Complex,Inconvenient,Healthcare,https://www.example.com
+Company B,Restaurant,San Juan,Medium,Convenient,Trustworthy,Professional,Noisy,Inconvenient,Inconvenient,Finance,https://www.example.com
+Company A,Retail,Guaynabo,High,Professional,Convenient,Reliable,Noisy,Inconvenient,Expensive,Retail,https://www.example.com
+Company A,Technology,Ponce,Low,Trustworthy,Innovative,Professional,Inconvenient,Inconvenient,Noisy,Finance,Null
+Company C,Restaurant,Ponce,Medium,Trustworthy,Innovative,Convenient,Noisy,Complex,Complex,Hospitality,Null
+Company C,Retail,San Juan,Low,Trustworthy,Trustworthy,Professional,Noisy,Complex,Complex,Retail,Null
+Company A,Restaurant,Bayamon,Medium,Innovative,Convenient,Innovative,Slow,Inconvenient,Expensive,Healthcare,Null
+Company A,Retail,Ponce,Medium,Professional,Convenient,Professional,Complex,Slow,Expensive,Hospitality,https://www.example.com
+Company D,Restaurant,Bayamon,Medium,Convenient,Professional,Convenient,Noisy,Slow,Noisy,Finance,Null
+Company C,Healthcare,Ponce,Medium,Convenient,Convenient,Trustworthy,Complex,Expensive,Noisy,Technology,Null
+Company D,Technology,Ponce,Medium,Professional,Professional,Reliable,Expensive,Noisy,Expensive,Retail,https://www.example.com
+Company E,Technology,Ponce,High,Innovative,Convenient,Convenient,Inconvenient,Expensive,Slow,Hospitality,Null
+Company D,Retail,Guaynabo,High,Professional,Reliable,Reliable,Expensive,Slow,Expensive,Healthcare,https://www.example.com
+Company A,Retail,Caguas,High,Reliable,Trustworthy,Convenient,Expensive,Complex,Expensive,Hospitality,Null
+Company A,Retail,Ponce,Low,Trustworthy,Professional,Professional,Inconvenient,Inconvenient,Expensive,Retail,Null
+Company A,Technology,San Juan,High,Innovative,Professional,Professional,Slow,Slow,Inconvenient,Technology,https://www.example.com
+Company C,Technology,Bayamon,Low,Innovative,Professional,Innovative,Noisy,Noisy,Complex,Hospitality,https://www.example.com
+Company E,Restaurant,Guaynabo,Medium,Convenient,Reliable,Convenient,Inconvenient,Expensive,Noisy,Finance,Null
+Company A,Retail,San Juan,Low,Reliable,Professional,Professional,Slow,Complex,Slow,Healthcare,Null
+Company B,Technology,Caguas,Medium,Trustworthy,Convenient,Professional,Complex,Slow,Slow,Finance,https://www.example.com
+Company B,Finance,Caguas,Medium,Innovative,Reliable,Innovative,Expensive,Slow,Slow,Finance,Null
+Company D,Restaurant,Guaynabo,Medium,Trustworthy,Trustworthy,Professional,Slow,Complex,Complex,Healthcare,https://www.example.com
+Company B,Technology,Bayamon,High,Innovative,Innovative,Reliable,Slow,Slow,Inconvenient,Technology,Null
+Company C,Technology,Guaynabo,High,Convenient,Innovative,Convenient,Noisy,Inconvenient,Inconvenient,Finance,https://www.example.com
+Company C,Restaurant,Bayamon,Low,Reliable,Reliable,Professional,Complex,Slow,Slow,Technology,Null
+Company B,Finance,Ponce,High,Reliable,Reliable,Reliable,Complex,Inconvenient,Inconvenient,Finance,Null
+Company A,Technology,Caguas,Low,Trustworthy,Trustworthy,Reliable,Complex,Slow,Inconvenient,Healthcare,https://www.example.com
+Company D,Finance,Ponce,Low,Professional,Innovative,Professional,Complex,Noisy,Slow,Finance,https://www.example.com
+Company E,Technology,Caguas,Medium,Professional,Trustworthy,Professional,Expensive,Noisy,Slow,Retail,https://www.example.com
+Company D,Retail,Caguas,Low,Trustworthy,Trustworthy,Innovative,Slow,Slow,Noisy,Hospitality,Null
+Company D,Restaurant,Caguas,Low,Trustworthy,Innovative,Convenient,Inconvenient,Expensive,Expensive,Retail,Null
+Company C,Technology,Guaynabo,Low,Convenient,Innovative,Reliable,Inconvenient,Slow,Expensive,Technology,Null
+Company B,Healthcare,Ponce,Medium,Reliable,Innovative,Convenient,Inconvenient,Expensive,Expensive,Technology,Null
+Company C,Healthcare,Ponce,Medium,Convenient,Reliable,Professional,Inconvenient,Noisy,Noisy,Technology,Null
+Company C,Restaurant,Ponce,Low,Innovative,Convenient,Innovative,Noisy,Slow,Noisy,Hospitality,Null
+Company E,Finance,Caguas,Medium,Convenient,Reliable,Reliable,Slow,Complex,Complex,Healthcare,https://www.example.com
+Company E,Healthcare,San Juan,Low,Innovative,Trustworthy,Innovative,Noisy,Complex,Complex,Hospitality,Null
+Company A,Healthcare,Caguas,Medium,Convenient,Trustworthy,Innovative,Noisy,Noisy,Complex,Healthcare,Null
+Company B,Finance,San Juan,Medium,Convenient,Innovative,Reliable,Complex,Complex,Inconvenient,Retail,Null
+Company E,Healthcare,Guaynabo,Low,Convenient,Trustworthy,Convenient,Expensive,Slow,Complex,Finance,Null
+Company A,Restaurant,Ponce,Low,Innovative,Convenient,Reliable,Slow,Expensive,Expensive,Technology,Null
+Company D,Retail,San Juan,High,Trustworthy,Reliable,Trustworthy,Complex,Noisy,Expensive,Technology,https://www.example.com
+Company B,Healthcare,Guaynabo,High,Professional,Convenient,Professional,Expensive,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company B,Restaurant,San Juan,Low,Reliable,Innovative,Trustworthy,Inconvenient,Inconvenient,Noisy,Healthcare,Null
+Company E,Retail,Guaynabo,High,Convenient,Innovative,Professional,Inconvenient,Expensive,Inconvenient,Technology,Null
+Company A,Healthcare,Caguas,Low,Trustworthy,Reliable,Innovative,Noisy,Noisy,Noisy,Finance,Null
+Company B,Restaurant,San Juan,Low,Professional,Professional,Reliable,Inconvenient,Expensive,Expensive,Retail,https://www.example.com
+Company B,Restaurant,San Juan,Medium,Convenient,Innovative,Professional,Complex,Complex,Inconvenient,Finance,https://www.example.com
+Company A,Finance,San Juan,Medium,Reliable,Trustworthy,Professional,Slow,Inconvenient,Inconvenient,Retail,Null
+Company D,Restaurant,Bayamon,High,Professional,Reliable,Convenient,Expensive,Expensive,Noisy,Retail,https://www.example.com
+Company C,Finance,San Juan,Medium,Professional,Professional,Trustworthy,Expensive,Complex,Slow,Technology,Null
+Company C,Healthcare,Caguas,Low,Trustworthy,Innovative,Reliable,Slow,Complex,Slow,Healthcare,Null
+Company B,Healthcare,Ponce,Low,Innovative,Innovative,Convenient,Inconvenient,Expensive,Expensive,Retail,Null
+Company D,Retail,San Juan,Low,Innovative,Professional,Innovative,Inconvenient,Complex,Complex,Retail,https://www.example.com
+Company C,Technology,Guaynabo,High,Trustworthy,Trustworthy,Innovative,Noisy,Noisy,Complex,Hospitality,Null
+Company A,Finance,Caguas,High,Reliable,Innovative,Convenient,Inconvenient,Complex,Noisy,Hospitality,Null
+Company C,Healthcare,Bayamon,Low,Reliable,Reliable,Reliable,Noisy,Complex,Slow,Healthcare,https://www.example.com
+Company E,Restaurant,Bayamon,High,Reliable,Innovative,Trustworthy,Expensive,Expensive,Complex,Retail,Null
+Company D,Finance,Ponce,Low,Convenient,Convenient,Trustworthy,Expensive,Expensive,Expensive,Technology,Null
+Company D,Healthcare,Bayamon,Low,Reliable,Innovative,Reliable,Inconvenient,Inconvenient,Complex,Healthcare,https://www.example.com
+Company B,Finance,San Juan,Medium,Reliable,Innovative,Reliable,Noisy,Inconvenient,Inconvenient,Hospitality,https://www.example.com
+Company E,Restaurant,Bayamon,High,Innovative,Convenient,Trustworthy,Slow,Noisy,Noisy,Healthcare,Null
+Company C,Finance,Guaynabo,Low,Reliable,Innovative,Innovative,Inconvenient,Noisy,Noisy,Healthcare,Null
+Company D,Restaurant,Ponce,Medium,Trustworthy,Innovative,Convenient,Expensive,Complex,Slow,Retail,Null
+Company A,Restaurant,Ponce,Low,Convenient,Innovative,Innovative,Expensive,Inconvenient,Inconvenient,Technology,Null
+Company A,Retail,Ponce,Low,Trustworthy,Professional,Trustworthy,Complex,Slow,Complex,Healthcare,https://www.example.com
+Company A,Retail,Caguas,Low,Innovative,Convenient,Innovative,Expensive,Inconvenient,Inconvenient,Healthcare,https://www.example.com
+Company E,Technology,Bayamon,Medium,Professional,Reliable,Reliable,Inconvenient,Expensive,Expensive,Hospitality,Null
+Company D,Healthcare,Bayamon,Low,Professional,Professional,Trustworthy,Complex,Expensive,Slow,Retail,Null
+Company D,Finance,Caguas,Low,Innovative,Professional,Innovative,Noisy,Complex,Slow,Hospitality,https://www.example.com
+Company D,Healthcare,Guaynabo,Medium,Professional,Innovative,Convenient,Expensive,Expensive,Complex,Technology,https://www.example.com
+Company B,Restaurant,Bayamon,Low,Reliable,Trustworthy,Reliable,Complex,Complex,Complex,Hospitality,Null
+Company A,Retail,San Juan,High,Convenient,Reliable,Trustworthy,Noisy,Slow,Complex,Technology,Null
+Company C,Finance,San Juan,Medium,Professional,Convenient,Professional,Inconvenient,Expensive,Inconvenient,Healthcare,Null
+Company C,Retail,Bayamon,Medium,Innovative,Trustworthy,Trustworthy,Complex,Inconvenient,Slow,Hospitality,Null
+Company A,Restaurant,Caguas,Medium,Professional,Reliable,Professional,Noisy,Complex,Slow,Retail,https://www.example.com
+Company E,Technology,Guaynabo,Medium,Convenient,Professional,Reliable,Expensive,Complex,Expensive,Healthcare,https://www.example.com
+Company D,Finance,Ponce,High,Convenient,Innovative,Reliable,Expensive,Noisy,Complex,Hospitality,Null
+Company B,Restaurant,San Juan,Low,Convenient,Trustworthy,Reliable,Expensive,Slow,Expensive,Healthcare,https://www.example.com
+Company B,Healthcare,San Juan,High,Professional,Reliable,Convenient,Expensive,Expensive,Noisy,Retail,Null
+Company A,Finance,Guaynabo,Medium,Convenient,Innovative,Convenient,Noisy,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company D,Healthcare,Guaynabo,Low,Professional,Reliable,Convenient,Expensive,Complex,Expensive,Technology,Null
+Company E,Restaurant,Bayamon,Low,Convenient,Trustworthy,Reliable,Inconvenient,Inconvenient,Slow,Retail,Null
+Company D,Retail,Bayamon,Medium,Reliable,Trustworthy,Innovative,Inconvenient,Slow,Complex,Technology,Null
+Company D,Healthcare,Caguas,Medium,Professional,Reliable,Reliable,Expensive,Noisy,Expensive,Hospitality,Null
+Company E,Technology,Ponce,Low,Professional,Convenient,Trustworthy,Slow,Slow,Slow,Healthcare,Null
+Company B,Retail,Guaynabo,High,Trustworthy,Convenient,Innovative,Complex,Expensive,Expensive,Finance,https://www.example.com
+Company E,Retail,Caguas,Low,Professional,Trustworthy,Reliable,Expensive,Complex,Inconvenient,Hospitality,https://www.example.com
+Company B,Finance,Ponce,High,Convenient,Trustworthy,Trustworthy,Expensive,Slow,Slow,Hospitality,https://www.example.com
+Company B,Retail,Guaynabo,High,Reliable,Trustworthy,Innovative,Inconvenient,Slow,Noisy,Finance,https://www.example.com
+Company D,Restaurant,Bayamon,High,Trustworthy,Reliable,Innovative,Inconvenient,Noisy,Complex,Healthcare,https://www.example.com
+Company B,Retail,Caguas,Low,Trustworthy,Reliable,Professional,Slow,Noisy,Expensive,Technology,Null
+Company E,Technology,Ponce,Low,Convenient,Reliable,Professional,Complex,Expensive,Complex,Retail,Null
+Company C,Restaurant,Caguas,High,Professional,Reliable,Innovative,Inconvenient,Inconvenient,Slow,Retail,Null
+Company D,Technology,San Juan,High,Professional,Convenient,Trustworthy,Complex,Slow,Slow,Retail,https://www.example.com
+Company E,Finance,San Juan,High,Innovative,Reliable,Convenient,Slow,Noisy,Inconvenient,Healthcare,https://www.example.com
+Company C,Finance,San Juan,Medium,Reliable,Trustworthy,Convenient,Slow,Noisy,Slow,Healthcare,Null
+Company B,Finance,San Juan,High,Innovative,Trustworthy,Innovative,Noisy,Noisy,Slow,Hospitality,Null
+Company E,Retail,Caguas,Medium,Reliable,Innovative,Reliable,Slow,Inconvenient,Inconvenient,Retail,Null
+Company D,Healthcare,Bayamon,Low,Convenient,Trustworthy,Trustworthy,Expensive,Slow,Inconvenient,Finance,https://www.example.com
+Company E,Healthcare,Bayamon,Low,Reliable,Trustworthy,Professional,Noisy,Noisy,Noisy,Hospitality,https://www.example.com
+Company A,Healthcare,Caguas,Low,Innovative,Innovative,Reliable,Complex,Complex,Expensive,Technology,https://www.example.com
+Company A,Healthcare,Ponce,High,Convenient,Professional,Reliable,Slow,Slow,Slow,Healthcare,Null
+Company D,Retail,Caguas,Medium,Trustworthy,Reliable,Trustworthy,Expensive,Slow,Inconvenient,Retail,Null
+Company C,Finance,Guaynabo,Medium,Professional,Convenient,Convenient,Complex,Noisy,Complex,Hospitality,https://www.example.com
+Company C,Restaurant,Ponce,Low,Professional,Reliable,Reliable,Expensive,Inconvenient,Slow,Finance,Null
+Company C,Finance,Guaynabo,Medium,Convenient,Reliable,Reliable,Noisy,Expensive,Slow,Finance,https://www.example.com
+Company C,Finance,Bayamon,Low,Trustworthy,Innovative,Professional,Expensive,Complex,Noisy,Finance,https://www.example.com
+Company B,Finance,Ponce,High,Reliable,Innovative,Professional,Complex,Noisy,Noisy,Technology,https://www.example.com
+Company E,Healthcare,Caguas,Medium,Convenient,Trustworthy,Reliable,Slow,Expensive,Slow,Retail,Null
+Company B,Finance,San Juan,Medium,Professional,Reliable,Reliable,Slow,Noisy,Expensive,Retail,https://www.example.com
+Company C,Healthcare,Bayamon,Medium,Professional,Reliable,Professional,Noisy,Expensive,Complex,Finance,Null
+Company B,Finance,Ponce,High,Professional,Professional,Convenient,Expensive,Expensive,Complex,Hospitality,Null
+Company C,Finance,Ponce,High,Innovative,Convenient,Innovative,Noisy,Noisy,Complex,Healthcare,https://www.example.com
+Company D,Healthcare,Guaynabo,High,Trustworthy,Professional,Professional,Inconvenient,Complex,Expensive,Retail,https://www.example.com
+Company E,Finance,Guaynabo,Medium,Trustworthy,Reliable,Convenient,Slow,Noisy,Expensive,Technology,Null
+Company D,Restaurant,Ponce,Medium,Convenient,Convenient,Innovative,Expensive,Expensive,Complex,Hospitality,Null
+Company C,Restaurant,Ponce,Low,Trustworthy,Reliable,Innovative,Slow,Expensive,Noisy,Retail,https://www.example.com
+Company A,Restaurant,Ponce,High,Trustworthy,Convenient,Convenient,Inconvenient,Slow,Noisy,Healthcare,https://www.example.com
+Company B,Healthcare,Ponce,High,Trustworthy,Convenient,Reliable,Inconvenient,Complex,Expensive,Technology,https://www.example.com
+Company E,Healthcare,Caguas,Medium,Trustworthy,Convenient,Convenient,Inconvenient,Complex,Slow,Healthcare,https://www.example.com
+Company A,Technology,Ponce,Medium,Innovative,Professional,Convenient,Expensive,Slow,Inconvenient,Hospitality,Null
+Company D,Retail,Bayamon,High,Professional,Convenient,Trustworthy,Inconvenient,Inconvenient,Slow,Finance,https://www.example.com
+Company D,Finance,Caguas,Low,Trustworthy,Innovative,Reliable,Complex,Complex,Inconvenient,Hospitality,Null
+Company D,Healthcare,Caguas,High,Innovative,Reliable,Convenient,Expensive,Inconvenient,Noisy,Finance,Null
+Company E,Restaurant,Guaynabo,High,Innovative,Convenient,Convenient,Expensive,Expensive,Noisy,Retail,https://www.example.com
+Company E,Finance,Caguas,Medium,Innovative,Trustworthy,Professional,Inconvenient,Complex,Slow,Technology,Null
+Company B,Restaurant,Bayamon,Low,Professional,Trustworthy,Convenient,Noisy,Slow,Slow,Retail,Null
+Company D,Technology,Guaynabo,Low,Innovative,Innovative,Trustworthy,Noisy,Slow,Slow,Technology,https://www.example.com
+Company E,Finance,Ponce,Medium,Innovative,Convenient,Convenient,Complex,Complex,Expensive,Hospitality,https://www.example.com
+Company A,Retail,Guaynabo,Medium,Trustworthy,Professional,Professional,Slow,Complex,Noisy,Retail,https://www.example.com
+Company B,Retail,San Juan,High,Professional,Convenient,Trustworthy,Expensive,Slow,Inconvenient,Healthcare,https://www.example.com
+Company A,Retail,San Juan,High,Trustworthy,Innovative,Trustworthy,Expensive,Inconvenient,Slow,Retail,https://www.example.com
+Company A,Retail,Ponce,Low,Convenient,Professional,Reliable,Complex,Inconvenient,Inconvenient,Hospitality,Null
+Company D,Retail,Ponce,High,Professional,Innovative,Reliable,Noisy,Slow,Expensive,Finance,Null
+Company B,Technology,Ponce,High,Innovative,Convenient,Convenient,Noisy,Noisy,Slow,Retail,Null
+Company C,Retail,Ponce,Medium,Reliable,Convenient,Professional,Slow,Noisy,Expensive,Retail,https://www.example.com
+Company A,Restaurant,San Juan,High,Innovative,Professional,Trustworthy,Noisy,Noisy,Expensive,Finance,Null
+Company D,Healthcare,Bayamon,Medium,Innovative,Reliable,Innovative,Noisy,Complex,Complex,Technology,https://www.example.com
+Company B,Restaurant,San Juan,Low,Trustworthy,Convenient,Reliable,Expensive,Noisy,Slow,Finance,https://www.example.com
+Company D,Healthcare,Guaynabo,Low,Professional,Trustworthy,Trustworthy,Noisy,Inconvenient,Expensive,Finance,https://www.example.com
+Company B,Retail,Ponce,Low,Professional,Trustworthy,Reliable,Noisy,Expensive,Inconvenient,Healthcare,https://www.example.com
+Company B,Retail,Ponce,Medium,Reliable,Professional,Reliable,Noisy,Inconvenient,Expensive,Technology,Null
+Company A,Healthcare,Guaynabo,High,Trustworthy,Convenient,Trustworthy,Complex,Slow,Expensive,Finance,https://www.example.com
+Company B,Finance,Ponce,Low,Professional,Convenient,Professional,Expensive,Complex,Noisy,Retail,Null
+Company E,Finance,San Juan,High,Trustworthy,Innovative,Convenient,Slow,Slow,Inconvenient,Retail,Null
+Company E,Technology,Bayamon,Low,Reliable,Professional,Reliable,Expensive,Inconvenient,Inconvenient,Finance,Null
+Company B,Restaurant,Ponce,Low,Professional,Professional,Innovative,Complex,Noisy,Complex,Hospitality,Null
+Company D,Technology,Ponce,Medium,Trustworthy,Professional,Reliable,Inconvenient,Inconvenient,Expensive,Finance,Null
+Company E,Healthcare,Caguas,High,Professional,Professional,Reliable,Slow,Complex,Complex,Retail,https://www.example.com
+Company B,Technology,Ponce,Medium,Convenient,Trustworthy,Professional,Expensive,Noisy,Slow,Hospitality,https://www.example.com
+Company E,Finance,Guaynabo,Medium,Innovative,Convenient,Reliable,Complex,Inconvenient,Noisy,Healthcare,https://www.example.com
+Company D,Finance,Guaynabo,Low,Professional,Professional,Innovative,Expensive,Noisy,Inconvenient,Hospitality,Null
+Company D,Healthcare,Bayamon,High,Trustworthy,Professional,Trustworthy,Inconvenient,Noisy,Inconvenient,Retail,https://www.example.com
+Company D,Restaurant,San Juan,High,Reliable,Convenient,Reliable,Inconvenient,Inconvenient,Complex,Technology,https://www.example.com
+Company D,Healthcare,Bayamon,Low,Professional,Professional,Reliable,Expensive,Inconvenient,Complex,Technology,https://www.example.com
+Company C,Technology,Caguas,Low,Innovative,Reliable,Professional,Slow,Noisy,Noisy,Healthcare,Null
+Company D,Finance,Caguas,Low,Convenient,Convenient,Innovative,Expensive,Noisy,Slow,Healthcare,https://www.example.com
+Company E,Technology,Ponce,Medium,Trustworthy,Reliable,Innovative,Expensive,Noisy,Expensive,Technology,Null
+Company D,Finance,San Juan,Low,Trustworthy,Trustworthy,Convenient,Complex,Noisy,Slow,Hospitality,https://www.example.com
+Company E,Healthcare,Ponce,High,Trustworthy,Trustworthy,Trustworthy,Slow,Inconvenient,Noisy,Technology,Null
+Company E,Healthcare,Guaynabo,Medium,Professional,Innovative,Convenient,Inconvenient,Inconvenient,Inconvenient,Healthcare,Null
+Company A,Technology,Bayamon,Medium,Convenient,Innovative,Trustworthy,Complex,Inconvenient,Expensive,Finance,Null
+Company C,Finance,Guaynabo,High,Reliable,Innovative,Convenient,Expensive,Inconvenient,Complex,Retail,https://www.example.com
+Company A,Healthcare,Guaynabo,High,Innovative,Trustworthy,Innovative,Inconvenient,Slow,Inconvenient,Healthcare,https://www.example.com
+Company E,Technology,San Juan,High,Professional,Convenient,Professional,Complex,Complex,Inconvenient,Hospitality,https://www.example.com
+Company C,Finance,Guaynabo,High,Reliable,Trustworthy,Trustworthy,Slow,Complex,Expensive,Technology,https://www.example.com
+Company D,Technology,San Juan,Medium,Professional,Trustworthy,Convenient,Expensive,Noisy,Noisy,Hospitality,Null
+Company D,Finance,Caguas,Low,Trustworthy,Convenient,Convenient,Slow,Slow,Expensive,Retail,https://www.example.com
+Company D,Retail,Ponce,Medium,Trustworthy,Innovative,Innovative,Inconvenient,Slow,Inconvenient,Finance,https://www.example.com
+Company E,Restaurant,San Juan,Medium,Convenient,Innovative,Convenient,Inconvenient,Inconvenient,Complex,Healthcare,https://www.example.com
+Company E,Technology,Caguas,Low,Professional,Professional,Convenient,Complex,Slow,Slow,Technology,Null
+Company E,Finance,Guaynabo,High,Convenient,Reliable,Reliable,Noisy,Expensive,Inconvenient,Technology,https://www.example.com
+Company A,Finance,San Juan,Medium,Reliable,Innovative,Convenient,Inconvenient,Noisy,Inconvenient,Hospitality,Null
+Company C,Finance,Guaynabo,Medium,Innovative,Convenient,Convenient,Noisy,Expensive,Complex,Hospitality,https://www.example.com
+Company B,Retail,Bayamon,Medium,Reliable,Innovative,Trustworthy,Slow,Complex,Noisy,Healthcare,https://www.example.com
+Company B,Finance,Caguas,High,Professional,Reliable,Professional,Slow,Inconvenient,Expensive,Retail,https://www.example.com
+Company A,Retail,Caguas,Medium,Convenient,Convenient,Reliable,Inconvenient,Expensive,Slow,Retail,https://www.example.com
+Company B,Technology,Ponce,Medium,Convenient,Convenient,Trustworthy,Expensive,Noisy,Slow,Technology,Null
+Company D,Technology,Guaynabo,High,Convenient,Convenient,Innovative,Expensive,Noisy,Slow,Retail,https://www.example.com
+Company A,Healthcare,Ponce,Low,Professional,Convenient,Innovative,Noisy,Slow,Inconvenient,Finance,https://www.example.com
+Company C,Restaurant,Caguas,Medium,Convenient,Reliable,Professional,Expensive,Slow,Expensive,Retail,https://www.example.com
+Company D,Finance,Ponce,High,Innovative,Trustworthy,Innovative,Noisy,Noisy,Slow,Retail,Null
+Company A,Restaurant,Caguas,Medium,Trustworthy,Reliable,Professional,Inconvenient,Complex,Noisy,Finance,Null
+Company B,Retail,San Juan,Medium,Convenient,Convenient,Convenient,Noisy,Expensive,Noisy,Healthcare,https://www.example.com
+Company D,Finance,Guaynabo,Medium,Reliable,Trustworthy,Innovative,Noisy,Inconvenient,Slow,Finance,Null
+Company D,Healthcare,Guaynabo,Medium,Reliable,Convenient,Reliable,Noisy,Inconvenient,Inconvenient,Retail,Null
+Company B,Restaurant,Ponce,Low,Professional,Innovative,Innovative,Inconvenient,Complex,Complex,Healthcare,https://www.example.com
+Company C,Restaurant,San Juan,High,Trustworthy,Professional,Professional,Complex,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company E,Healthcare,Caguas,Medium,Reliable,Innovative,Reliable,Complex,Inconvenient,Noisy,Finance,Null
+Company E,Technology,Caguas,Medium,Professional,Innovative,Professional,Noisy,Noisy,Noisy,Finance,Null
+Company A,Healthcare,Guaynabo,High,Reliable,Innovative,Professional,Complex,Slow,Expensive,Finance,Null
+Company B,Healthcare,Ponce,High,Innovative,Trustworthy,Innovative,Complex,Inconvenient,Slow,Hospitality,Null
+Company E,Finance,Bayamon,High,Reliable,Professional,Innovative,Noisy,Expensive,Noisy,Hospitality,Null
+Company D,Finance,Guaynabo,High,Convenient,Innovative,Reliable,Complex,Slow,Slow,Healthcare,Null
+Company A,Technology,Bayamon,High,Professional,Professional,Innovative,Complex,Noisy,Slow,Hospitality,Null
+Company B,Restaurant,Ponce,High,Convenient,Convenient,Convenient,Slow,Complex,Complex,Finance,Null
+Company C,Restaurant,Bayamon,High,Innovative,Reliable,Innovative,Inconvenient,Noisy,Noisy,Technology,Null
+Company B,Restaurant,Caguas,Low,Professional,Trustworthy,Reliable,Inconvenient,Noisy,Slow,Finance,Null
+Company E,Retail,Guaynabo,High,Professional,Innovative,Trustworthy,Expensive,Noisy,Noisy,Finance,https://www.example.com
+Company B,Restaurant,Caguas,Medium,Convenient,Professional,Reliable,Complex,Complex,Slow,Finance,https://www.example.com
+Company B,Healthcare,San Juan,Medium,Trustworthy,Reliable,Trustworthy,Slow,Inconvenient,Slow,Healthcare,https://www.example.com
+Company B,Retail,San Juan,Low,Innovative,Convenient,Convenient,Slow,Slow,Noisy,Healthcare,https://www.example.com
+Company A,Technology,Caguas,High,Convenient,Trustworthy,Innovative,Noisy,Expensive,Inconvenient,Healthcare,https://www.example.com
+Company A,Restaurant,San Juan,Medium,Reliable,Innovative,Innovative,Inconvenient,Slow,Noisy,Retail,Null
+Company A,Healthcare,San Juan,High,Professional,Professional,Innovative,Complex,Noisy,Complex,Healthcare,Null
+Company B,Restaurant,San Juan,Medium,Professional,Trustworthy,Trustworthy,Inconvenient,Noisy,Noisy,Technology,https://www.example.com
+Company A,Technology,Ponce,High,Trustworthy,Reliable,Innovative,Expensive,Noisy,Slow,Retail,Null
+Company C,Healthcare,Caguas,Medium,Reliable,Convenient,Trustworthy,Slow,Inconvenient,Complex,Retail,Null
+Company A,Restaurant,Guaynabo,Low,Trustworthy,Innovative,Innovative,Expensive,Expensive,Complex,Technology,Null
+Company E,Retail,Bayamon,Medium,Trustworthy,Reliable,Trustworthy,Slow,Expensive,Slow,Finance,https://www.example.com
+Company E,Retail,Bayamon,Medium,Innovative,Innovative,Innovative,Inconvenient,Inconvenient,Noisy,Technology,https://www.example.com
+Company B,Healthcare,Caguas,Low,Reliable,Trustworthy,Reliable,Complex,Complex,Expensive,Healthcare,https://www.example.com
+Company B,Restaurant,Ponce,High,Trustworthy,Reliable,Reliable,Noisy,Inconvenient,Inconvenient,Retail,Null
+Company B,Restaurant,San Juan,Low,Trustworthy,Innovative,Professional,Expensive,Inconvenient,Slow,Technology,https://www.example.com
+Company A,Healthcare,San Juan,Low,Trustworthy,Innovative,Convenient,Inconvenient,Inconvenient,Inconvenient,Healthcare,https://www.example.com
+Company E,Finance,Bayamon,Medium,Trustworthy,Convenient,Innovative,Noisy,Noisy,Complex,Healthcare,https://www.example.com
+Company B,Finance,Caguas,Low,Innovative,Convenient,Professional,Slow,Slow,Noisy,Finance,Null
+Company E,Finance,Bayamon,Low,Trustworthy,Professional,Innovative,Inconvenient,Expensive,Noisy,Retail,https://www.example.com
+Company C,Technology,San Juan,Medium,Trustworthy,Innovative,Convenient,Noisy,Expensive,Noisy,Healthcare,Null
+Company D,Restaurant,Guaynabo,Low,Trustworthy,Convenient,Innovative,Complex,Expensive,Expensive,Hospitality,Null
+Company E,Restaurant,Guaynabo,High,Professional,Reliable,Convenient,Inconvenient,Noisy,Noisy,Hospitality,https://www.example.com
+Company A,Retail,San Juan,High,Reliable,Professional,Reliable,Noisy,Slow,Noisy,Hospitality,https://www.example.com
+Company E,Finance,San Juan,High,Trustworthy,Professional,Trustworthy,Complex,Complex,Complex,Healthcare,https://www.example.com
+Company B,Retail,Guaynabo,Low,Trustworthy,Professional,Innovative,Expensive,Inconvenient,Complex,Technology,Null
+Company C,Retail,San Juan,Low,Reliable,Professional,Professional,Noisy,Expensive,Noisy,Healthcare,https://www.example.com
+Company D,Retail,Guaynabo,High,Trustworthy,Reliable,Convenient,Inconvenient,Expensive,Complex,Finance,https://www.example.com
+Company D,Restaurant,Bayamon,High,Reliable,Convenient,Trustworthy,Expensive,Complex,Inconvenient,Healthcare,Null
+Company E,Finance,Ponce,High,Professional,Professional,Convenient,Expensive,Inconvenient,Complex,Healthcare,https://www.example.com
+Company E,Retail,Guaynabo,Medium,Convenient,Trustworthy,Convenient,Expensive,Noisy,Complex,Retail,Null
+Company D,Healthcare,Guaynabo,High,Reliable,Professional,Reliable,Complex,Slow,Expensive,Healthcare,Null
+Company C,Restaurant,San Juan,Medium,Convenient,Trustworthy,Reliable,Expensive,Inconvenient,Complex,Hospitality,https://www.example.com
+Company B,Healthcare,Caguas,Medium,Innovative,Professional,Innovative,Noisy,Expensive,Inconvenient,Retail,https://www.example.com
+Company A,Healthcare,Guaynabo,Medium,Trustworthy,Trustworthy,Trustworthy,Inconvenient,Noisy,Inconvenient,Hospitality,Null
+Company D,Finance,Ponce,Medium,Reliable,Trustworthy,Reliable,Slow,Inconvenient,Expensive,Healthcare,Null
+Company A,Retail,Bayamon,High,Innovative,Reliable,Reliable,Inconvenient,Complex,Slow,Hospitality,Null
+Company C,Restaurant,Guaynabo,Medium,Reliable,Reliable,Trustworthy,Noisy,Slow,Inconvenient,Technology,Null
+Company B,Healthcare,Guaynabo,Medium,Trustworthy,Convenient,Professional,Noisy,Complex,Inconvenient,Finance,Null
+Company B,Restaurant,Ponce,Low,Reliable,Convenient,Trustworthy,Noisy,Inconvenient,Expensive,Technology,https://www.example.com
+Company E,Technology,Bayamon,Low,Professional,Convenient,Innovative,Expensive,Slow,Slow,Healthcare,Null
+Company C,Healthcare,Caguas,High,Professional,Reliable,Innovative,Noisy,Slow,Slow,Healthcare,https://www.example.com
+Company B,Technology,Guaynabo,Medium,Trustworthy,Professional,Innovative,Slow,Expensive,Complex,Retail,Null
+Company B,Restaurant,Guaynabo,Low,Professional,Professional,Convenient,Expensive,Expensive,Slow,Finance,https://www.example.com
+Company A,Technology,Guaynabo,High,Reliable,Reliable,Convenient,Slow,Complex,Slow,Finance,https://www.example.com
+Company B,Retail,Guaynabo,Low,Reliable,Reliable,Reliable,Complex,Expensive,Complex,Technology,Null
+Company A,Technology,Caguas,Low,Convenient,Professional,Reliable,Complex,Slow,Slow,Finance,https://www.example.com
+Company B,Healthcare,Bayamon,Medium,Reliable,Trustworthy,Reliable,Complex,Inconvenient,Expensive,Retail,https://www.example.com
+Company A,Retail,Ponce,Medium,Reliable,Reliable,Trustworthy,Noisy,Inconvenient,Slow,Finance,https://www.example.com
+Company D,Finance,Guaynabo,Low,Convenient,Convenient,Innovative,Inconvenient,Expensive,Slow,Healthcare,https://www.example.com
+Company E,Retail,Caguas,Medium,Professional,Trustworthy,Professional,Slow,Inconvenient,Complex,Hospitality,Null
+Company E,Retail,Guaynabo,Medium,Professional,Innovative,Reliable,Slow,Slow,Complex,Healthcare,https://www.example.com
+Company B,Finance,Guaynabo,Medium,Reliable,Professional,Innovative,Noisy,Inconvenient,Inconvenient,Healthcare,Null
+Company E,Technology,Bayamon,High,Reliable,Trustworthy,Professional,Slow,Slow,Slow,Finance,Null
+Company C,Healthcare,Guaynabo,Medium,Professional,Professional,Trustworthy,Slow,Inconvenient,Expensive,Healthcare,https://www.example.com
+Company B,Technology,San Juan,Medium,Innovative,Innovative,Convenient,Expensive,Complex,Expensive,Healthcare,Null
+Company C,Healthcare,San Juan,Low,Professional,Innovative,Reliable,Noisy,Expensive,Expensive,Retail,Null
+Company D,Technology,Guaynabo,High,Convenient,Convenient,Reliable,Complex,Complex,Slow,Finance,https://www.example.com
+Company B,Healthcare,Caguas,Medium,Convenient,Professional,Convenient,Complex,Noisy,Expensive,Finance,Null
+Company D,Retail,San Juan,High,Convenient,Professional,Convenient,Complex,Complex,Slow,Finance,https://www.example.com
+Company B,Restaurant,Caguas,High,Convenient,Trustworthy,Convenient,Inconvenient,Noisy,Inconvenient,Healthcare,Null
+Company B,Technology,Ponce,Low,Professional,Professional,Professional,Slow,Noisy,Complex,Retail,https://www.example.com
+Company D,Retail,Guaynabo,High,Convenient,Innovative,Convenient,Slow,Inconvenient,Noisy,Technology,Null
+Company C,Finance,Ponce,High,Convenient,Trustworthy,Convenient,Expensive,Inconvenient,Expensive,Hospitality,https://www.example.com
+Company A,Retail,Guaynabo,Low,Professional,Trustworthy,Professional,Slow,Complex,Expensive,Finance,Null
+Company E,Retail,Bayamon,Medium,Trustworthy,Innovative,Innovative,Complex,Expensive,Expensive,Finance,https://www.example.com
+Company B,Retail,Caguas,Medium,Innovative,Trustworthy,Convenient,Inconvenient,Complex,Noisy,Technology,Null
+Company A,Healthcare,Ponce,Medium,Professional,Innovative,Convenient,Expensive,Complex,Inconvenient,Hospitality,Null
+Company A,Technology,Guaynabo,Low,Reliable,Convenient,Innovative,Noisy,Expensive,Inconvenient,Healthcare,https://www.example.com
+Company A,Retail,Ponce,High,Reliable,Professional,Innovative,Slow,Noisy,Slow,Technology,https://www.example.com
+Company A,Retail,Guaynabo,Medium,Innovative,Convenient,Innovative,Expensive,Inconvenient,Expensive,Hospitality,https://www.example.com
+Company C,Retail,Ponce,Medium,Professional,Professional,Professional,Expensive,Slow,Inconvenient,Technology,https://www.example.com
+Company A,Healthcare,Bayamon,High,Reliable,Professional,Convenient,Inconvenient,Complex,Complex,Finance,Null
+Company E,Finance,Guaynabo,High,Reliable,Professional,Convenient,Noisy,Inconvenient,Noisy,Retail,Null
+Company B,Finance,Caguas,High,Innovative,Professional,Reliable,Noisy,Complex,Inconvenient,Finance,https://www.example.com
+Company B,Finance,San Juan,Medium,Trustworthy,Trustworthy,Professional,Expensive,Noisy,Noisy,Retail,Null
+Company E,Restaurant,Ponce,Medium,Reliable,Trustworthy,Professional,Complex,Slow,Complex,Finance,https://www.example.com
+Company A,Finance,Ponce,High,Convenient,Professional,Professional,Noisy,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company D,Finance,San Juan,Medium,Innovative,Professional,Reliable,Inconvenient,Noisy,Inconvenient,Healthcare,Null
+Company E,Technology,Caguas,Low,Professional,Professional,Innovative,Slow,Expensive,Slow,Healthcare,Null
+Company A,Restaurant,San Juan,High,Professional,Innovative,Reliable,Noisy,Complex,Complex,Retail,Null
+Company C,Healthcare,Guaynabo,Low,Convenient,Professional,Trustworthy,Expensive,Noisy,Noisy,Finance,Null
+Company B,Retail,Guaynabo,High,Professional,Reliable,Innovative,Slow,Expensive,Expensive,Technology,https://www.example.com
+Company E,Restaurant,Bayamon,Low,Professional,Convenient,Trustworthy,Inconvenient,Expensive,Noisy,Healthcare,https://www.example.com
+Company E,Finance,San Juan,High,Reliable,Reliable,Trustworthy,Expensive,Inconvenient,Complex,Healthcare,Null
+Company C,Restaurant,Ponce,Low,Reliable,Innovative,Convenient,Inconvenient,Inconvenient,Slow,Retail,https://www.example.com
+Company E,Retail,Guaynabo,High,Professional,Innovative,Trustworthy,Complex,Slow,Inconvenient,Retail,Null
+Company D,Healthcare,Guaynabo,Low,Trustworthy,Trustworthy,Professional,Expensive,Expensive,Inconvenient,Healthcare,https://www.example.com
+Company A,Restaurant,Guaynabo,High,Trustworthy,Professional,Trustworthy,Noisy,Complex,Complex,Hospitality,Null
+Company D,Retail,San Juan,Low,Convenient,Convenient,Reliable,Slow,Slow,Inconvenient,Technology,https://www.example.com
+Company A,Healthcare,Bayamon,Low,Innovative,Professional,Trustworthy,Complex,Inconvenient,Noisy,Finance,Null
+Company B,Retail,Caguas,Medium,Innovative,Convenient,Professional,Slow,Complex,Complex,Healthcare,https://www.example.com
+Company B,Technology,Bayamon,High,Convenient,Convenient,Convenient,Expensive,Inconvenient,Complex,Retail,https://www.example.com
+Company B,Healthcare,Caguas,High,Professional,Reliable,Professional,Complex,Complex,Expensive,Finance,Null
+Company D,Finance,San Juan,Medium,Innovative,Innovative,Professional,Noisy,Noisy,Slow,Healthcare,https://www.example.com
+Company B,Technology,Bayamon,High,Trustworthy,Innovative,Trustworthy,Inconvenient,Inconvenient,Slow,Finance,https://www.example.com
+Company D,Restaurant,Bayamon,Medium,Convenient,Convenient,Innovative,Noisy,Complex,Complex,Finance,Null
+Company A,Finance,Guaynabo,Low,Trustworthy,Convenient,Innovative,Noisy,Slow,Expensive,Finance,Null
+Company B,Retail,San Juan,Low,Convenient,Innovative,Trustworthy,Noisy,Complex,Noisy,Healthcare,https://www.example.com
+Company E,Retail,Caguas,High,Innovative,Trustworthy,Professional,Slow,Noisy,Expensive,Retail,Null
+Company A,Technology,Caguas,Low,Trustworthy,Reliable,Convenient,Complex,Slow,Inconvenient,Retail,https://www.example.com
+Company B,Technology,Guaynabo,High,Reliable,Trustworthy,Professional,Noisy,Complex,Inconvenient,Technology,https://www.example.com
+Company B,Technology,Bayamon,High,Professional,Professional,Reliable,Noisy,Expensive,Expensive,Hospitality,Null
+Company B,Technology,San Juan,Low,Reliable,Reliable,Convenient,Complex,Noisy,Slow,Finance,Null
+Company E,Healthcare,Bayamon,Medium,Trustworthy,Trustworthy,Professional,Noisy,Slow,Complex,Finance,https://www.example.com
+Company B,Retail,Ponce,High,Convenient,Trustworthy,Trustworthy,Complex,Inconvenient,Expensive,Retail,https://www.example.com
+Company E,Finance,Ponce,High,Trustworthy,Convenient,Professional,Complex,Complex,Slow,Technology,https://www.example.com
+Company C,Restaurant,San Juan,Medium,Reliable,Convenient,Reliable,Expensive,Slow,Slow,Finance,https://www.example.com
+Company D,Finance,Guaynabo,Low,Reliable,Reliable,Innovative,Complex,Noisy,Slow,Finance,https://www.example.com
+Company A,Healthcare,San Juan,Medium,Trustworthy,Trustworthy,Trustworthy,Noisy,Noisy,Complex,Technology,https://www.example.com
+Company E,Restaurant,Guaynabo,Low,Professional,Professional,Professional,Complex,Slow,Expensive,Hospitality,https://www.example.com
+Company D,Restaurant,Caguas,High,Professional,Convenient,Convenient,Expensive,Noisy,Inconvenient,Hospitality,Null
+Company B,Restaurant,Bayamon,Medium,Convenient,Trustworthy,Trustworthy,Inconvenient,Complex,Expensive,Healthcare,Null
+Company B,Restaurant,Ponce,Medium,Trustworthy,Innovative,Reliable,Complex,Noisy,Inconvenient,Technology,Null
+Company E,Restaurant,Guaynabo,Medium,Professional,Trustworthy,Reliable,Expensive,Complex,Inconvenient,Retail,https://www.example.com
+Company D,Technology,Bayamon,Low,Innovative,Convenient,Reliable,Inconvenient,Noisy,Expensive,Technology,Null
+Company B,Technology,Ponce,High,Professional,Trustworthy,Reliable,Expensive,Complex,Inconvenient,Technology,https://www.example.com
+Company A,Restaurant,Guaynabo,High,Convenient,Convenient,Professional,Noisy,Slow,Inconvenient,Finance,Null
+Company A,Restaurant,Caguas,Medium,Trustworthy,Convenient,Trustworthy,Noisy,Inconvenient,Inconvenient,Technology,https://www.example.com
+Company A,Technology,Guaynabo,High,Reliable,Convenient,Innovative,Inconvenient,Inconvenient,Noisy,Healthcare,https://www.example.com
+Company E,Finance,Guaynabo,High,Trustworthy,Trustworthy,Innovative,Expensive,Complex,Inconvenient,Finance,https://www.example.com
+Company C,Finance,San Juan,Medium,Reliable,Trustworthy,Convenient,Complex,Noisy,Slow,Technology,Null
+Company E,Finance,Guaynabo,Low,Innovative,Professional,Innovative,Expensive,Complex,Expensive,Finance,Null
+Company E,Technology,Guaynabo,Low,Convenient,Reliable,Reliable,Noisy,Noisy,Noisy,Retail,https://www.example.com
+Company D,Finance,Bayamon,Low,Convenient,Reliable,Professional,Slow,Complex,Expensive,Technology,https://www.example.com
+Company E,Retail,Caguas,Medium,Innovative,Innovative,Convenient,Complex,Slow,Expensive,Technology,https://www.example.com
+Company A,Finance,Caguas,High,Professional,Professional,Reliable,Inconvenient,Complex,Slow,Healthcare,https://www.example.com
+Company E,Technology,Ponce,Low,Professional,Convenient,Trustworthy,Complex,Complex,Expensive,Retail,Null
+Company B,Healthcare,San Juan,High,Innovative,Convenient,Convenient,Complex,Expensive,Complex,Hospitality,https://www.example.com
+Company C,Restaurant,San Juan,Medium,Innovative,Convenient,Reliable,Slow,Noisy,Complex,Hospitality,https://www.example.com
+Company B,Technology,Caguas,High,Professional,Reliable,Professional,Slow,Inconvenient,Noisy,Technology,Null
+Company C,Healthcare,San Juan,Medium,Convenient,Convenient,Trustworthy,Complex,Complex,Slow,Finance,https://www.example.com
+Company B,Finance,Guaynabo,Medium,Professional,Convenient,Trustworthy,Expensive,Slow,Inconvenient,Healthcare,https://www.example.com
+Company C,Healthcare,Bayamon,Medium,Trustworthy,Innovative,Trustworthy,Inconvenient,Slow,Expensive,Technology,https://www.example.com
+Company A,Retail,Caguas,Low,Professional,Convenient,Convenient,Slow,Expensive,Complex,Technology,Null
+Company D,Technology,Caguas,Medium,Trustworthy,Reliable,Trustworthy,Expensive,Expensive,Slow,Healthcare,Null
+Company C,Finance,Guaynabo,Low,Convenient,Professional,Trustworthy,Expensive,Slow,Noisy,Retail,https://www.example.com
+Company A,Healthcare,Guaynabo,High,Professional,Convenient,Reliable,Noisy,Slow,Noisy,Hospitality,Null
+Company D,Technology,San Juan,High,Convenient,Reliable,Reliable,Inconvenient,Expensive,Slow,Retail,Null
+Company E,Retail,Bayamon,Medium,Innovative,Reliable,Professional,Slow,Inconvenient,Slow,Finance,Null
+Company E,Finance,Ponce,Medium,Innovative,Reliable,Convenient,Noisy,Noisy,Expensive,Retail,Null
+Company E,Technology,Bayamon,Low,Convenient,Professional,Trustworthy,Expensive,Slow,Noisy,Healthcare,Null
+Company B,Healthcare,Guaynabo,Medium,Convenient,Convenient,Reliable,Slow,Inconvenient,Inconvenient,Retail,Null
+Company E,Healthcare,San Juan,High,Reliable,Convenient,Trustworthy,Expensive,Inconvenient,Inconvenient,Retail,Null
+Company B,Restaurant,Bayamon,Medium,Professional,Innovative,Convenient,Inconvenient,Inconvenient,Noisy,Finance,https://www.example.com
+Company B,Restaurant,Caguas,Medium,Convenient,Trustworthy,Innovative,Slow,Complex,Expensive,Hospitality,Null
+Company D,Technology,Ponce,High,Trustworthy,Convenient,Reliable,Inconvenient,Noisy,Slow,Healthcare,https://www.example.com
+Company C,Healthcare,Guaynabo,Low,Reliable,Innovative,Convenient,Inconvenient,Inconvenient,Inconvenient,Technology,https://www.example.com
+Company A,Retail,Caguas,Medium,Reliable,Reliable,Professional,Complex,Slow,Slow,Finance,https://www.example.com
+Company B,Restaurant,Guaynabo,Medium,Trustworthy,Reliable,Trustworthy,Expensive,Inconvenient,Inconvenient,Retail,https://www.example.com
+Company A,Restaurant,Bayamon,Medium,Trustworthy,Reliable,Reliable,Slow,Slow,Expensive,Hospitality,Null
+Company C,Retail,Guaynabo,Medium,Trustworthy,Convenient,Innovative,Noisy,Slow,Noisy,Retail,Null
+Company D,Finance,Bayamon,High,Reliable,Professional,Innovative,Noisy,Slow,Complex,Technology,Null
+Company E,Restaurant,Guaynabo,High,Professional,Professional,Trustworthy,Noisy,Inconvenient,Noisy,Healthcare,https://www.example.com
+Company E,Retail,Caguas,Medium,Trustworthy,Reliable,Professional,Inconvenient,Noisy,Complex,Healthcare,https://www.example.com
+Company C,Retail,Guaynabo,Medium,Convenient,Trustworthy,Professional,Expensive,Slow,Noisy,Hospitality,https://www.example.com
+Company D,Technology,Caguas,High,Reliable,Professional,Innovative,Noisy,Expensive,Noisy,Hospitality,https://www.example.com
+Company E,Technology,Bayamon,Low,Professional,Innovative,Professional,Slow,Complex,Complex,Finance,Null
+Company A,Healthcare,Bayamon,Low,Reliable,Reliable,Trustworthy,Expensive,Slow,Slow,Hospitality,https://www.example.com
+Company C,Technology,San Juan,Medium,Reliable,Convenient,Trustworthy,Expensive,Slow,Expensive,Finance,Null
+Company C,Finance,Caguas,Medium,Convenient,Innovative,Innovative,Inconvenient,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company B,Technology,Guaynabo,High,Reliable,Trustworthy,Professional,Complex,Complex,Expensive,Finance,Null
+Company D,Healthcare,Guaynabo,High,Reliable,Trustworthy,Professional,Slow,Inconvenient,Complex,Retail,Null
+Company E,Restaurant,Bayamon,High,Reliable,Convenient,Innovative,Noisy,Inconvenient,Noisy,Healthcare,https://www.example.com
+Company D,Retail,Ponce,Medium,Convenient,Reliable,Innovative,Expensive,Inconvenient,Complex,Finance,Null
+Company D,Retail,Bayamon,Medium,Reliable,Convenient,Trustworthy,Slow,Inconvenient,Expensive,Technology,Null
+Company B,Restaurant,Caguas,High,Innovative,Innovative,Trustworthy,Complex,Inconvenient,Inconvenient,Retail,https://www.example.com
+Company C,Finance,Caguas,High,Trustworthy,Innovative,Reliable,Slow,Slow,Expensive,Technology,https://www.example.com
+Company A,Restaurant,Bayamon,High,Trustworthy,Convenient,Convenient,Expensive,Inconvenient,Slow,Hospitality,https://www.example.com
+Company A,Restaurant,Caguas,High,Convenient,Innovative,Reliable,Complex,Complex,Expensive,Healthcare,https://www.example.com
+Company C,Restaurant,Guaynabo,Low,Innovative,Trustworthy,Convenient,Complex,Noisy,Noisy,Healthcare,Null
+Company D,Technology,Guaynabo,Low,Innovative,Professional,Reliable,Noisy,Complex,Complex,Hospitality,https://www.example.com
+Company B,Healthcare,Bayamon,High,Professional,Trustworthy,Reliable,Expensive,Noisy,Complex,Retail,Null
+Company E,Healthcare,San Juan,Medium,Professional,Reliable,Innovative,Inconvenient,Slow,Inconvenient,Retail,Null
+Company D,Technology,Ponce,Low,Innovative,Convenient,Convenient,Expensive,Slow,Slow,Technology,https://www.example.com
+Company B,Retail,Caguas,Medium,Trustworthy,Trustworthy,Innovative,Slow,Expensive,Slow,Healthcare,https://www.example.com
+Company A,Technology,Caguas,High,Convenient,Reliable,Professional,Expensive,Slow,Complex,Technology,Null
+Company A,Retail,Ponce,Medium,Innovative,Professional,Reliable,Inconvenient,Inconvenient,Slow,Finance,Null
+Company A,Restaurant,Caguas,Low,Professional,Convenient,Convenient,Slow,Complex,Expensive,Finance,https://www.example.com
+Company E,Finance,San Juan,Medium,Trustworthy,Professional,Convenient,Inconvenient,Noisy,Complex,Healthcare,https://www.example.com
+Company A,Healthcare,Guaynabo,High,Convenient,Trustworthy,Reliable,Expensive,Noisy,Inconvenient,Healthcare,https://www.example.com
+Company D,Retail,Bayamon,Low,Trustworthy,Convenient,Convenient,Expensive,Noisy,Complex,Technology,Null
+Company B,Technology,Bayamon,Medium,Innovative,Convenient,Reliable,Slow,Slow,Expensive,Retail,Null
+Company E,Healthcare,Bayamon,Medium,Reliable,Trustworthy,Reliable,Noisy,Noisy,Slow,Healthcare,https://www.example.com
+Company C,Finance,Bayamon,Medium,Trustworthy,Convenient,Reliable,Inconvenient,Complex,Inconvenient,Retail,https://www.example.com
+Company C,Restaurant,Bayamon,Medium,Innovative,Innovative,Professional,Noisy,Inconvenient,Noisy,Healthcare,Null
+Company E,Finance,Caguas,High,Reliable,Reliable,Innovative,Slow,Complex,Expensive,Healthcare,https://www.example.com
+Company E,Finance,Guaynabo,Low,Reliable,Innovative,Trustworthy,Slow,Inconvenient,Complex,Technology,https://www.example.com
+Company C,Healthcare,Ponce,High,Convenient,Reliable,Professional,Complex,Inconvenient,Expensive,Hospitality,https://www.example.com
+Company A,Retail,Ponce,Low,Reliable,Reliable,Convenient,Complex,Slow,Expensive,Finance,https://www.example.com
+Company A,Technology,San Juan,Medium,Reliable,Convenient,Reliable,Noisy,Noisy,Noisy,Finance,https://www.example.com
+Company A,Restaurant,Bayamon,Medium,Reliable,Trustworthy,Professional,Slow,Slow,Inconvenient,Finance,Null
+Company D,Restaurant,Bayamon,Medium,Trustworthy,Reliable,Professional,Complex,Complex,Complex,Finance,Null
+Company E,Healthcare,Guaynabo,Low,Professional,Reliable,Reliable,Expensive,Complex,Inconvenient,Healthcare,Null
+Company A,Restaurant,Ponce,Medium,Reliable,Innovative,Innovative,Complex,Slow,Noisy,Finance,Null
+Company E,Finance,Caguas,High,Reliable,Professional,Reliable,Inconvenient,Noisy,Noisy,Retail,Null
+Company A,Retail,San Juan,High,Professional,Convenient,Reliable,Inconvenient,Noisy,Complex,Healthcare,Null
+Company D,Retail,San Juan,High,Professional,Convenient,Professional,Slow,Complex,Slow,Finance,https://www.example.com
+Company C,Finance,Bayamon,Low,Innovative,Professional,Reliable,Inconvenient,Expensive,Inconvenient,Healthcare,https://www.example.com
+Company A,Restaurant,Guaynabo,Low,Professional,Professional,Innovative,Complex,Noisy,Expensive,Hospitality,Null
+Company E,Restaurant,Guaynabo,Medium,Innovative,Trustworthy,Reliable,Inconvenient,Inconvenient,Complex,Finance,Null
+Company E,Restaurant,Bayamon,Low,Trustworthy,Convenient,Innovative,Inconvenient,Noisy,Slow,Hospitality,https://www.example.com
+Company B,Restaurant,San Juan,Low,Reliable,Convenient,Professional,Complex,Inconvenient,Inconvenient,Retail,Null
+Company B,Finance,Caguas,Low,Reliable,Professional,Professional,Slow,Expensive,Inconvenient,Technology,Null
+Company B,Technology,Guaynabo,Medium,Professional,Professional,Trustworthy,Inconvenient,Inconvenient,Complex,Technology,Null
+Company E,Technology,Ponce,High,Trustworthy,Innovative,Convenient,Inconvenient,Slow,Expensive,Finance,Null
+Company D,Restaurant,Caguas,Medium,Convenient,Professional,Trustworthy,Noisy,Slow,Noisy,Technology,https://www.example.com
+Company D,Restaurant,Ponce,Medium,Reliable,Trustworthy,Trustworthy,Complex,Complex,Inconvenient,Healthcare,https://www.example.com
+Company A,Retail,Bayamon,High,Trustworthy,Convenient,Convenient,Slow,Complex,Expensive,Finance,Null
+Company E,Technology,Bayamon,Medium,Professional,Trustworthy,Trustworthy,Inconvenient,Complex,Inconvenient,Healthcare,Null
+Company C,Technology,San Juan,High,Trustworthy,Convenient,Innovative,Inconvenient,Noisy,Complex,Retail,https://www.example.com
+Company D,Technology,San Juan,High,Convenient,Innovative,Innovative,Noisy,Complex,Noisy,Finance,Null
+Company B,Finance,Caguas,Medium,Innovative,Reliable,Professional,Complex,Expensive,Noisy,Technology,Null
+Company D,Healthcare,Ponce,High,Reliable,Trustworthy,Convenient,Complex,Expensive,Expensive,Hospitality,Null
+Company E,Healthcare,Guaynabo,High,Reliable,Convenient,Trustworthy,Complex,Expensive,Noisy,Finance,https://www.example.com
+Company A,Restaurant,Caguas,High,Convenient,Professional,Convenient,Complex,Slow,Complex,Hospitality,Null
+Company C,Retail,Bayamon,Low,Innovative,Trustworthy,Innovative,Expensive,Inconvenient,Complex,Hospitality,https://www.example.com
+Company C,Healthcare,Caguas,High,Professional,Professional,Trustworthy,Noisy,Inconvenient,Noisy,Healthcare,https://www.example.com
+Company C,Finance,San Juan,Medium,Trustworthy,Innovative,Trustworthy,Expensive,Expensive,Expensive,Finance,https://www.example.com
+Company E,Retail,Ponce,Low,Innovative,Convenient,Reliable,Noisy,Noisy,Expensive,Finance,Null
+Company D,Finance,Ponce,Low,Convenient,Innovative,Convenient,Expensive,Complex,Slow,Technology,https://www.example.com
+Company B,Technology,Ponce,Low,Convenient,Innovative,Reliable,Expensive,Noisy,Complex,Hospitality,https://www.example.com
+Company B,Finance,Ponce,Low,Professional,Trustworthy,Reliable,Slow,Expensive,Expensive,Retail,Null
+Company E,Finance,Caguas,Medium,Professional,Convenient,Professional,Noisy,Slow,Inconvenient,Hospitality,https://www.example.com
+Company E,Technology,Caguas,High,Professional,Trustworthy,Trustworthy,Inconvenient,Expensive,Expensive,Retail,https://www.example.com
+Company E,Healthcare,Guaynabo,High,Innovative,Convenient,Innovative,Expensive,Inconvenient,Slow,Retail,https://www.example.com
+Company C,Technology,Caguas,High,Convenient,Convenient,Convenient,Slow,Slow,Complex,Finance,https://www.example.com
+Company C,Finance,Bayamon,Low,Trustworthy,Convenient,Convenient,Slow,Expensive,Expensive,Retail,https://www.example.com
+Company D,Healthcare,Bayamon,High,Professional,Professional,Innovative,Inconvenient,Noisy,Slow,Healthcare,https://www.example.com
+Company B,Retail,Ponce,Medium,Professional,Convenient,Trustworthy,Complex,Slow,Slow,Finance,https://www.example.com
+Company B,Healthcare,Ponce,Low,Innovative,Professional,Convenient,Complex,Noisy,Slow,Technology,Null
+Company B,Technology,Ponce,Medium,Convenient,Trustworthy,Trustworthy,Expensive,Complex,Complex,Hospitality,https://www.example.com
+Company A,Healthcare,Bayamon,Medium,Professional,Trustworthy,Professional,Complex,Noisy,Inconvenient,Finance,Null
+Company D,Technology,Ponce,High,Reliable,Trustworthy,Reliable,Expensive,Expensive,Inconvenient,Technology,https://www.example.com
+Company E,Healthcare,Caguas,High,Reliable,Professional,Convenient,Noisy,Expensive,Noisy,Hospitality,https://www.example.com
+Company D,Retail,Bayamon,Low,Convenient,Innovative,Innovative,Complex,Expensive,Inconvenient,Retail,https://www.example.com
+Company C,Restaurant,Guaynabo,Low,Reliable,Convenient,Innovative,Inconvenient,Complex,Expensive,Retail,https://www.example.com
+Company E,Finance,Ponce,Medium,Reliable,Professional,Professional,Noisy,Complex,Slow,Hospitality,Null
+Company E,Healthcare,Guaynabo,Low,Reliable,Innovative,Trustworthy,Complex,Noisy,Complex,Hospitality,https://www.example.com
+Company E,Finance,Caguas,Low,Trustworthy,Trustworthy,Reliable,Expensive,Complex,Complex,Retail,Null
+Company E,Restaurant,Ponce,Medium,Reliable,Convenient,Convenient,Complex,Slow,Noisy,Retail,https://www.example.com
+Company B,Healthcare,Ponce,Medium,Trustworthy,Trustworthy,Trustworthy,Slow,Slow,Noisy,Technology,https://www.example.com
+Company A,Retail,Bayamon,Low,Convenient,Innovative,Innovative,Complex,Inconvenient,Complex,Retail,Null
+Company C,Retail,Bayamon,High,Professional,Professional,Trustworthy,Slow,Inconvenient,Expensive,Retail,https://www.example.com
+Company D,Retail,Bayamon,Medium,Trustworthy,Trustworthy,Reliable,Expensive,Expensive,Inconvenient,Hospitality,https://www.example.com
+Company D,Restaurant,Bayamon,High,Professional,Professional,Professional,Complex,Slow,Inconvenient,Finance,https://www.example.com
+Company B,Technology,Caguas,Medium,Innovative,Trustworthy,Convenient,Complex,Expensive,Slow,Hospitality,Null
+Company E,Restaurant,Bayamon,Low,Convenient,Convenient,Reliable,Expensive,Slow,Complex,Hospitality,https://www.example.com
+Company A,Technology,San Juan,High,Trustworthy,Professional,Trustworthy,Noisy,Inconvenient,Inconvenient,Hospitality,https://www.example.com
+Company C,Restaurant,Ponce,Low,Convenient,Innovative,Convenient,Expensive,Noisy,Slow,Hospitality,Null
+Company C,Finance,San Juan,Low,Professional,Professional,Reliable,Slow,Noisy,Noisy,Healthcare,Null
+Company E,Finance,Ponce,High,Trustworthy,Professional,Trustworthy,Complex,Noisy,Noisy,Technology,Null
+Company E,Finance,Guaynabo,Medium,Reliable,Innovative,Convenient,Expensive,Inconvenient,Slow,Finance,Null
+Company E,Healthcare,Caguas,Low,Convenient,Innovative,Professional,Expensive,Complex,Slow,Healthcare,https://www.example.com
+Company C,Restaurant,Guaynabo,High,Trustworthy,Professional,Innovative,Inconvenient,Slow,Slow,Technology,https://www.example.com
+Company C,Technology,Caguas,Low,Reliable,Convenient,Professional,Inconvenient,Expensive,Expensive,Technology,https://www.example.com
+Company A,Healthcare,Ponce,Low,Innovative,Trustworthy,Convenient,Expensive,Complex,Complex,Finance,Null
+Company E,Restaurant,Caguas,Low,Trustworthy,Convenient,Professional,Inconvenient,Inconvenient,Inconvenient,Technology,Null
+Company B,Technology,Guaynabo,Medium,Professional,Trustworthy,Trustworthy,Inconvenient,Expensive,Complex,Healthcare,https://www.example.com
+Company B,Healthcare,Ponce,High,Innovative,Reliable,Convenient,Noisy,Expensive,Expensive,Retail,https://www.example.com
+Company D,Restaurant,San Juan,Low,Trustworthy,Trustworthy,Convenient,Inconvenient,Expensive,Expensive,Hospitality,Null
+Company C,Healthcare,Ponce,High,Convenient,Reliable,Trustworthy,Slow,Slow,Slow,Healthcare,Null
+Company C,Finance,Caguas,Medium,Convenient,Reliable,Professional,Complex,Inconvenient,Expensive,Healthcare,Null
+Company B,Technology,Bayamon,Medium,Trustworthy,Trustworthy,Trustworthy,Slow,Noisy,Noisy,Hospitality,Null
+Company C,Technology,Caguas,Medium,Professional,Trustworthy,Trustworthy,Expensive,Complex,Inconvenient,Finance,Null
+Company A,Retail,Caguas,High,Innovative,Professional,Professional,Expensive,Complex,Noisy,Retail,https://www.example.com
+Company D,Retail,Ponce,Medium,Convenient,Trustworthy,Convenient,Noisy,Inconvenient,Noisy,Retail,https://www.example.com
+Company A,Healthcare,Guaynabo,High,Convenient,Trustworthy,Trustworthy,Expensive,Expensive,Complex,Technology,Null
+Company A,Healthcare,Bayamon,Low,Trustworthy,Innovative,Reliable,Noisy,Slow,Expensive,Hospitality,Null
+Company B,Retail,San Juan,High,Professional,Innovative,Innovative,Noisy,Complex,Inconvenient,Hospitality,https://www.example.com
+Company D,Technology,San Juan,Low,Convenient,Reliable,Convenient,Noisy,Noisy,Inconvenient,Retail,https://www.example.com
+Company A,Retail,San Juan,Low,Reliable,Trustworthy,Professional,Noisy,Expensive,Inconvenient,Retail,https://www.example.com
+Company B,Restaurant,Caguas,Medium,Innovative,Convenient,Innovative,Inconvenient,Noisy,Complex,Finance,https://www.example.com
+Company B,Finance,Guaynabo,High,Trustworthy,Reliable,Convenient,Inconvenient,Complex,Inconvenient,Hospitality,https://www.example.com
+Company D,Healthcare,Guaynabo,High,Reliable,Professional,Trustworthy,Noisy,Inconvenient,Expensive,Healthcare,Null
+Company B,Finance,Caguas,Low,Convenient,Reliable,Innovative,Inconvenient,Noisy,Complex,Hospitality,Null
+Company C,Technology,Guaynabo,High,Trustworthy,Trustworthy,Innovative,Noisy,Noisy,Noisy,Hospitality,Null
+Company A,Restaurant,Guaynabo,Medium,Reliable,Trustworthy,Convenient,Noisy,Noisy,Slow,Retail,https://www.example.com
+Company A,Retail,Bayamon,Low,Convenient,Reliable,Trustworthy,Expensive,Inconvenient,Inconvenient,Healthcare,Null
+Company E,Restaurant,Caguas,High,Trustworthy,Reliable,Innovative,Slow,Complex,Complex,Hospitality,https://www.example.com
+Company D,Healthcare,Guaynabo,High,Trustworthy,Trustworthy,Trustworthy,Inconvenient,Inconvenient,Slow,Retail,Null
+Company C,Restaurant,San Juan,High,Innovative,Innovative,Innovative,Expensive,Noisy,Complex,Technology,Null
+Company D,Healthcare,Caguas,Low,Convenient,Innovative,Convenient,Complex,Complex,Expensive,Retail,https://www.example.com
+Company A,Finance,Guaynabo,High,Reliable,Convenient,Professional,Inconvenient,Complex,Noisy,Finance,Null
+Company D,Finance,Ponce,High,Professional,Convenient,Reliable,Noisy,Noisy,Expensive,Technology,https://www.example.com
+Company E,Healthcare,Caguas,High,Trustworthy,Convenient,Convenient,Inconvenient,Complex,Complex,Healthcare,https://www.example.com
+Company D,Finance,Ponce,Low,Innovative,Professional,Professional,Slow,Slow,Complex,Hospitality,Null
+Company A,Restaurant,San Juan,Medium,Professional,Reliable,Convenient,Inconvenient,Complex,Complex,Hospitality,https://www.example.com
+Company C,Retail,San Juan,Low,Trustworthy,Professional,Convenient,Noisy,Slow,Expensive,Healthcare,Null
+Company B,Restaurant,San Juan,Medium,Trustworthy,Trustworthy,Professional,Inconvenient,Slow,Slow,Hospitality,https://www.example.com
+Company A,Retail,Caguas,Low,Reliable,Professional,Convenient,Inconvenient,Noisy,Noisy,Hospitality,Null
+Company C,Retail,Caguas,High,Reliable,Innovative,Trustworthy,Complex,Noisy,Complex,Finance,Null
+Company C,Retail,Ponce,Low,Reliable,Convenient,Convenient,Noisy,Expensive,Complex,Healthcare,https://www.example.com
+Company A,Technology,San Juan,High,Professional,Reliable,Professional,Slow,Inconvenient,Slow,Hospitality,Null
+Company E,Finance,Caguas,Medium,Reliable,Reliable,Professional,Expensive,Slow,Inconvenient,Finance,https://www.example.com
+Company A,Restaurant,Caguas,Low,Reliable,Innovative,Trustworthy,Slow,Inconvenient,Noisy,Healthcare,Null
+Company B,Restaurant,San Juan,Medium,Professional,Professional,Convenient,Noisy,Complex,Expensive,Hospitality,https://www.example.com
+Company C,Finance,Guaynabo,Medium,Convenient,Innovative,Innovative,Slow,Complex,Noisy,Finance,Null
+Company E,Finance,Ponce,Medium,Professional,Trustworthy,Innovative,Slow,Slow,Noisy,Hospitality,https://www.example.com
+Company B,Retail,San Juan,High,Reliable,Innovative,Professional,Expensive,Noisy,Noisy,Healthcare,https://www.example.com
+Company B,Healthcare,Ponce,Low,Trustworthy,Trustworthy,Professional,Inconvenient,Expensive,Complex,Technology,Null
+Company A,Retail,Guaynabo,Medium,Professional,Trustworthy,Reliable,Inconvenient,Noisy,Slow,Hospitality,Null
+Company E,Healthcare,Ponce,Medium,Trustworthy,Professional,Reliable,Noisy,Complex,Expensive,Finance,Null
+Company C,Restaurant,San Juan,High,Convenient,Convenient,Innovative,Complex,Noisy,Noisy,Technology,Null
+Company C,Retail,San Juan,Medium,Professional,Innovative,Convenient,Expensive,Noisy,Noisy,Retail,https://www.example.com
+Company C,Finance,Ponce,Medium,Trustworthy,Convenient,Trustworthy,Expensive,Noisy,Inconvenient,Technology,Null
+Company B,Restaurant,Caguas,High,Professional,Trustworthy,Reliable,Inconvenient,Inconvenient,Noisy,Technology,Null
+Company C,Retail,San Juan,Medium,Reliable,Reliable,Convenient,Inconvenient,Expensive,Complex,Healthcare,https://www.example.com
+Company A,Finance,Guaynabo,Low,Reliable,Convenient,Professional,Inconvenient,Complex,Inconvenient,Healthcare,https://www.example.com
+Company B,Technology,Guaynabo,Medium,Professional,Reliable,Innovative,Slow,Complex,Slow,Healthcare,https://www.example.com
+Company A,Finance,Ponce,High,Trustworthy,Trustworthy,Convenient,Complex,Complex,Noisy,Retail,https://www.example.com
+Company C,Technology,Caguas,Low,Trustworthy,Reliable,Convenient,Complex,Slow,Slow,Retail,Null
+Company A,Technology,Bayamon,Medium,Reliable,Trustworthy,Trustworthy,Noisy,Slow,Expensive,Finance,Null
+Company D,Finance,Ponce,Low,Professional,Innovative,Reliable,Noisy,Noisy,Inconvenient,Technology,Null
+Company A,Restaurant,Ponce,High,Reliable,Professional,Convenient,Noisy,Slow,Expensive,Finance,https://www.example.com
+Company E,Restaurant,Bayamon,Low,Convenient,Trustworthy,Trustworthy,Complex,Slow,Complex,Technology,https://www.example.com
+Company E,Technology,Caguas,Low,Professional,Professional,Innovative,Slow,Noisy,Complex,Healthcare,Null
+Company A,Retail,Ponce,High,Reliable,Innovative,Professional,Expensive,Complex,Inconvenient,Healthcare,Null
+Company C,Healthcare,Bayamon,Medium,Reliable,Convenient,Trustworthy,Inconvenient,Inconvenient,Noisy,Technology,https://www.example.com
+Company E,Retail,Ponce,High,Trustworthy,Innovative,Convenient,Inconvenient,Complex,Inconvenient,Retail,Null
+Company B,Restaurant,Caguas,High,Innovative,Reliable,Convenient,Expensive,Expensive,Expensive,Healthcare,Null
+Company D,Healthcare,San Juan,Low,Reliable,Innovative,Reliable,Inconvenient,Expensive,Complex,Technology,https://www.example.com
+Company C,Restaurant,Caguas,Low,Trustworthy,Convenient,Trustworthy,Noisy,Slow,Slow,Hospitality,https://www.example.com
+Company A,Technology,Guaynabo,Medium,Innovative,Convenient,Reliable,Complex,Inconvenient,Inconvenient,Finance,Null
+Company A,Retail,San Juan,Low,Reliable,Convenient,Convenient,Inconvenient,Noisy,Slow,Healthcare,https://www.example.com
+Company B,Restaurant,San Juan,Medium,Trustworthy,Innovative,Convenient,Noisy,Expensive,Noisy,Technology,https://www.example.com
+Company A,Restaurant,Bayamon,Low,Convenient,Convenient,Reliable,Complex,Complex,Slow,Retail,https://www.example.com
+Company D,Restaurant,Ponce,High,Reliable,Professional,Innovative,Complex,Noisy,Inconvenient,Healthcare,https://www.example.com
+Company D,Restaurant,Guaynabo,High,Convenient,Trustworthy,Trustworthy,Complex,Expensive,Complex,Healthcare,https://www.example.com
+Company B,Retail,San Juan,High,Innovative,Innovative,Reliable,Complex,Complex,Complex,Finance,https://www.example.com
+Company B,Restaurant,Caguas,Medium,Innovative,Reliable,Innovative,Slow,Expensive,Slow,Retail,Null
+Company A,Finance,Bayamon,Low,Innovative,Reliable,Professional,Expensive,Inconvenient,Complex,Retail,Null
+Company D,Finance,Caguas,High,Innovative,Trustworthy,Innovative,Inconvenient,Slow,Slow,Healthcare,Null
+Company C,Retail,Caguas,High,Convenient,Convenient,Reliable,Complex,Expensive,Slow,Healthcare,Null
+Company E,Restaurant,Caguas,Low,Innovative,Convenient,Professional,Inconvenient,Noisy,Complex,Healthcare,Null
+Company B,Healthcare,Bayamon,Medium,Professional,Reliable,Reliable,Complex,Complex,Noisy,Hospitality,Null
+Company A,Finance,Bayamon,Low,Trustworthy,Innovative,Convenient,Noisy,Noisy,Inconvenient,Technology,Null
+Company C,Technology,Guaynabo,High,Reliable,Innovative,Trustworthy,Inconvenient,Complex,Complex,Hospitality,Null
+Company E,Retail,Ponce,Low,Convenient,Trustworthy,Trustworthy,Inconvenient,Slow,Complex,Hospitality,Null
+Company A,Restaurant,Ponce,Medium,Innovative,Innovative,Reliable,Expensive,Inconvenient,Expensive,Retail,Null
+Company A,Restaurant,Ponce,High,Reliable,Professional,Trustworthy,Complex,Noisy,Slow,Hospitality,Null
+Company E,Finance,Guaynabo,High,Reliable,Innovative,Trustworthy,Slow,Expensive,Noisy,Retail,https://www.example.com
+Company C,Retail,Bayamon,High,Trustworthy,Innovative,Professional,Slow,Noisy,Inconvenient,Retail,https://www.example.com
+Company A,Technology,San Juan,High,Trustworthy,Convenient,Innovative,Complex,Inconvenient,Complex,Retail,Null
+Company D,Restaurant,San Juan,Low,Convenient,Innovative,Trustworthy,Complex,Expensive,Noisy,Finance,https://www.example.com
+Company E,Technology,San Juan,Low,Convenient,Convenient,Innovative,Noisy,Complex,Inconvenient,Retail,Null
+Company A,Healthcare,Caguas,High,Trustworthy,Professional,Convenient,Inconvenient,Complex,Noisy,Retail,https://www.example.com
+Company B,Healthcare,San Juan,Low,Convenient,Professional,Convenient,Noisy,Complex,Complex,Retail,Null
+Company B,Retail,Bayamon,High,Trustworthy,Convenient,Reliable,Inconvenient,Slow,Expensive,Healthcare,https://www.example.com
+Company E,Technology,San Juan,Medium,Innovative,Trustworthy,Convenient,Slow,Inconvenient,Noisy,Retail,https://www.example.com
+Company A,Restaurant,Caguas,Medium,Convenient,Reliable,Trustworthy,Expensive,Expensive,Complex,Retail,https://www.example.com
+Company D,Healthcare,San Juan,Medium,Innovative,Professional,Reliable,Expensive,Expensive,Inconvenient,Hospitality,Null
+Company E,Retail,Guaynabo,High,Innovative,Professional,Reliable,Slow,Inconvenient,Slow,Retail,Null
+Company C,Healthcare,Guaynabo,Medium,Professional,Trustworthy,Trustworthy,Inconvenient,Inconvenient,Complex,Finance,https://www.example.com
+Company D,Retail,Bayamon,Low,Innovative,Convenient,Innovative,Slow,Complex,Expensive,Finance,https://www.example.com
+Company B,Technology,Ponce,High,Reliable,Reliable,Reliable,Slow,Slow,Expensive,Finance,https://www.example.com
+Company D,Restaurant,Caguas,Medium,Reliable,Professional,Innovative,Complex,Complex,Complex,Hospitality,Null
+Company E,Restaurant,Ponce,Low,Professional,Professional,Convenient,Noisy,Expensive,Noisy,Finance,https://www.example.com
+Company C,Finance,Bayamon,Medium,Reliable,Trustworthy,Convenient,Inconvenient,Inconvenient,Complex,Healthcare,https://www.example.com
+Company A,Restaurant,Caguas,Low,Innovative,Reliable,Convenient,Expensive,Noisy,Noisy,Retail,https://www.example.com
+Company D,Restaurant,Caguas,Medium,Convenient,Innovative,Innovative,Expensive,Complex,Noisy,Retail,https://www.example.com
+Company C,Retail,Bayamon,Medium,Trustworthy,Innovative,Trustworthy,Expensive,Complex,Inconvenient,Healthcare,https://www.example.com
+Company B,Retail,Guaynabo,High,Reliable,Reliable,Reliable,Inconvenient,Complex,Slow,Retail,https://www.example.com
+Company C,Technology,Bayamon,Low,Reliable,Innovative,Professional,Noisy,Slow,Expensive,Finance,Null
+Company A,Restaurant,San Juan,High,Reliable,Innovative,Innovative,Complex,Complex,Inconvenient,Finance,Null
+Company B,Finance,Caguas,Low,Professional,Convenient,Convenient,Complex,Expensive,Expensive,Hospitality,Null
+Company A,Technology,Bayamon,Medium,Convenient,Trustworthy,Professional,Inconvenient,Slow,Slow,Healthcare,Null
+Company B,Technology,Ponce,Low,Convenient,Reliable,Reliable,Complex,Complex,Complex,Healthcare,https://www.example.com
+Company C,Healthcare,Guaynabo,Medium,Reliable,Reliable,Professional,Slow,Inconvenient,Expensive,Finance,https://www.example.com
+Company E,Retail,Guaynabo,Low,Trustworthy,Professional,Reliable,Slow,Noisy,Slow,Technology,https://www.example.com
+Company C,Healthcare,Ponce,Low,Reliable,Trustworthy,Reliable,Noisy,Noisy,Inconvenient,Healthcare,https://www.example.com
+Company E,Retail,Bayamon,High,Convenient,Trustworthy,Convenient,Complex,Noisy,Noisy,Hospitality,Null
+Company B,Healthcare,Ponce,Low,Professional,Professional,Innovative,Slow,Noisy,Complex,Technology,Null
+Company D,Healthcare,San Juan,High,Professional,Innovative,Professional,Inconvenient,Expensive,Complex,Finance,Null
+Company A,Healthcare,Bayamon,Medium,Professional,Professional,Innovative,Slow,Slow,Inconvenient,Technology,Null
+Company E,Technology,Ponce,Medium,Convenient,Reliable,Reliable,Noisy,Slow,Noisy,Retail,https://www.example.com
+Company D,Technology,San Juan,Low,Professional,Trustworthy,Trustworthy,Slow,Noisy,Slow,Technology,Null
+Company A,Technology,Guaynabo,High,Reliable,Professional,Reliable,Expensive,Complex,Inconvenient,Finance,https://www.example.com
+Company D,Finance,Ponce,High,Professional,Professional,Professional,Slow,Noisy,Expensive,Hospitality,Null
+Company C,Restaurant,Ponce,Low,Convenient,Trustworthy,Trustworthy,Slow,Complex,Noisy,Technology,Null
+Company B,Healthcare,Bayamon,Medium,Reliable,Reliable,Innovative,Expensive,Inconvenient,Complex,Retail,https://www.example.com
+Company D,Technology,Bayamon,High,Convenient,Innovative,Innovative,Inconvenient,Complex,Slow,Technology,Null
+Company E,Finance,San Juan,High,Reliable,Convenient,Reliable,Noisy,Noisy,Expensive,Finance,Null
+Company E,Finance,Guaynabo,Medium,Trustworthy,Professional,Reliable,Noisy,Complex,Inconvenient,Technology,https://www.example.com
+Company C,Technology,San Juan,Medium,Professional,Reliable,Innovative,Noisy,Expensive,Expensive,Healthcare,Null
+Company B,Finance,Ponce,High,Reliable,Innovative,Innovative,Expensive,Complex,Expensive,Technology,Null
+Company D,Restaurant,Bayamon,High,Reliable,Trustworthy,Innovative,Expensive,Expensive,Expensive,Healthcare,Null
+Company A,Retail,Caguas,Low,Reliable,Trustworthy,Professional,Slow,Inconvenient,Noisy,Hospitality,https://www.example.com
+Company A,Healthcare,Caguas,Low,Convenient,Innovative,Convenient,Slow,Inconvenient,Slow,Hospitality,https://www.example.com
+Company E,Retail,Bayamon,Low,Convenient,Professional,Convenient,Inconvenient,Complex,Inconvenient,Technology,https://www.example.com
+Company B,Finance,Bayamon,High,Trustworthy,Innovative,Convenient,Complex,Expensive,Slow,Finance,Null
+Company B,Technology,San Juan,Medium,Innovative,Trustworthy,Reliable,Slow,Expensive,Noisy,Healthcare,https://www.example.com
+Company D,Retail,Caguas,Low,Trustworthy,Reliable,Convenient,Inconvenient,Slow,Inconvenient,Hospitality,https://www.example.com
+Company B,Finance,Bayamon,Medium,Innovative,Professional,Reliable,Expensive,Complex,Noisy,Retail,https://www.example.com
+Company A,Restaurant,Guaynabo,Medium,Professional,Innovative,Innovative,Expensive,Complex,Noisy,Hospitality,Null
+Company B,Finance,Ponce,Medium,Innovative,Professional,Professional,Slow,Slow,Slow,Healthcare,https://www.example.com
+Company D,Technology,San Juan,Medium,Innovative,Trustworthy,Professional,Slow,Noisy,Expensive,Finance,https://www.example.com
+Company A,Technology,Bayamon,Medium,Convenient,Trustworthy,Reliable,Slow,Complex,Noisy,Hospitality,Null
+Company A,Healthcare,San Juan,High,Trustworthy,Professional,Reliable,Complex,Expensive,Noisy,Hospitality,Null
+Company E,Healthcare,Ponce,High,Trustworthy,Innovative,Convenient,Expensive,Noisy,Complex,Hospitality,https://www.example.com
+Company D,Technology,Caguas,Medium,Convenient,Reliable,Innovative,Complex,Noisy,Inconvenient,Hospitality,https://www.example.com
+Company A,Finance,Guaynabo,Medium,Innovative,Trustworthy,Convenient,Noisy,Slow,Noisy,Finance,Null
+Company E,Healthcare,San Juan,Low,Professional,Reliable,Professional,Expensive,Noisy,Expensive,Healthcare,Null
+Company B,Retail,Bayamon,High,Reliable,Innovative,Professional,Expensive,Slow,Slow,Hospitality,Null
+Company D,Finance,Ponce,Low,Innovative,Convenient,Trustworthy,Noisy,Slow,Expensive,Healthcare,Null
+Company D,Restaurant,Guaynabo,Medium,Professional,Convenient,Convenient,Slow,Inconvenient,Noisy,Hospitality,Null
+Company B,Healthcare,Guaynabo,High,Innovative,Convenient,Reliable,Inconvenient,Expensive,Inconvenient,Retail,https://www.example.com
+Company A,Finance,Bayamon,Low,Professional,Professional,Trustworthy,Inconvenient,Noisy,Expensive,Retail,Null
+Company E,Finance,Guaynabo,High,Reliable,Innovative,Reliable,Complex,Noisy,Noisy,Retail,Null
+Company E,Healthcare,Guaynabo,Low,Convenient,Reliable,Professional,Complex,Noisy,Expensive,Hospitality,https://www.example.com
+Company E,Technology,San Juan,Low,Innovative,Innovative,Reliable,Inconvenient,Slow,Expensive,Finance,Null
+Company C,Finance,San Juan,Medium,Convenient,Professional,Professional,Complex,Complex,Complex,Technology,https://www.example.com
+Company E,Finance,San Juan,High,Innovative,Reliable,Innovative,Inconvenient,Complex,Slow,Healthcare,https://www.example.com
+Company D,Restaurant,Ponce,High,Professional,Professional,Professional,Inconvenient,Noisy,Slow,Retail,https://www.example.com
+Company C,Restaurant,Bayamon,Low,Professional,Trustworthy,Convenient,Slow,Slow,Expensive,Technology,Null
+Company A,Healthcare,Ponce,Low,Innovative,Professional,Trustworthy,Noisy,Noisy,Complex,Healthcare,https://www.example.com
+Company E,Healthcare,Guaynabo,High,Professional,Convenient,Innovative,Inconvenient,Inconvenient,Expensive,Healthcare,Null
+Company A,Finance,Bayamon,High,Trustworthy,Innovative,Professional,Expensive,Expensive,Complex,Technology,Null
+Company A,Restaurant,Bayamon,Medium,Reliable,Innovative,Innovative,Noisy,Expensive,Slow,Technology,https://www.example.com
+Company C,Restaurant,Bayamon,Medium,Innovative,Trustworthy,Trustworthy,Inconvenient,Slow,Complex,Hospitality,https://www.example.com
+Company A,Technology,San Juan,High,Professional,Convenient,Innovative,Expensive,Inconvenient,Noisy,Healthcare,https://www.example.com
+Company E,Finance,Guaynabo,Low,Trustworthy,Reliable,Convenient,Complex,Slow,Noisy,Technology,https://www.example.com
+Company C,Restaurant,Bayamon,Medium,Convenient,Convenient,Convenient,Noisy,Inconvenient,Complex,Hospitality,https://www.example.com
+Company A,Retail,San Juan,High,Innovative,Trustworthy,Innovative,Complex,Complex,Noisy,Finance,Null
+Company B,Retail,Caguas,Medium,Reliable,Convenient,Trustworthy,Inconvenient,Complex,Slow,Healthcare,Null
+Company D,Healthcare,Bayamon,High,Reliable,Convenient,Innovative,Noisy,Slow,Expensive,Finance,https://www.example.com
+Company A,Finance,San Juan,Medium,Professional,Reliable,Reliable,Noisy,Slow,Inconvenient,Healthcare,Null
+Company B,Finance,Bayamon,Medium,Trustworthy,Reliable,Reliable,Complex,Slow,Expensive,Retail,https://www.example.com
+Company E,Technology,Guaynabo,High,Convenient,Professional,Professional,Slow,Slow,Complex,Hospitality,https://www.example.com
+Company E,Healthcare,Caguas,Low,Trustworthy,Reliable,Professional,Expensive,Expensive,Noisy,Healthcare,Null
+Company C,Finance,Guaynabo,Low,Reliable,Convenient,Reliable,Inconvenient,Noisy,Slow,Healthcare,Null
+Company D,Retail,Caguas,Low,Professional,Innovative,Professional,Inconvenient,Complex,Inconvenient,Healthcare,https://www.example.com
+Company B,Healthcare,Bayamon,High,Innovative,Trustworthy,Innovative,Complex,Expensive,Inconvenient,Healthcare,Null
+Company B,Technology,Guaynabo,Medium,Reliable,Convenient,Professional,Complex,Complex,Noisy,Retail,Null
+Company D,Healthcare,San Juan,Low,Professional,Convenient,Convenient,Slow,Complex,Expensive,Technology,Null
+Company D,Technology,Ponce,Medium,Reliable,Innovative,Trustworthy,Noisy,Inconvenient,Slow,Finance,https://www.example.com
+Company A,Retail,Bayamon,Medium,Professional,Convenient,Professional,Noisy,Expensive,Noisy,Hospitality,https://www.example.com
+Company C,Healthcare,Guaynabo,Low,Convenient,Reliable,Trustworthy,Noisy,Inconvenient,Noisy,Finance,https://www.example.com
+Company B,Healthcare,Ponce,Low,Innovative,Trustworthy,Trustworthy,Complex,Noisy,Slow,Technology,Null
+Company B,Retail,San Juan,Medium,Reliable,Convenient,Professional,Complex,Expensive,Noisy,Retail,Null
+Company A,Finance,San Juan,Low,Trustworthy,Convenient,Convenient,Complex,Expensive,Expensive,Healthcare,Null
+Company A,Retail,Guaynabo,Low,Professional,Trustworthy,Reliable,Slow,Noisy,Noisy,Finance,Null
+Company E,Restaurant,Bayamon,Medium,Reliable,Trustworthy,Reliable,Inconvenient,Inconvenient,Complex,Finance,https://www.example.com
+Company D,Technology,Caguas,Medium,Innovative,Innovative,Convenient,Inconvenient,Noisy,Complex,Hospitality,Null
+Company B,Healthcare,Caguas,Low,Convenient,Convenient,Professional,Noisy,Slow,Complex,Hospitality,https://www.example.com
+Company A,Retail,Bayamon,High,Trustworthy,Innovative,Innovative,Expensive,Noisy,Noisy,Hospitality,https://www.example.com
+Company D,Finance,Guaynabo,High,Innovative,Innovative,Professional,Noisy,Slow,Slow,Retail,Null
+Company B,Finance,San Juan,High,Reliable,Professional,Convenient,Expensive,Inconvenient,Complex,Finance,Null
+Company E,Restaurant,Bayamon,Medium,Innovative,Innovative,Professional,Complex,Inconvenient,Noisy,Hospitality,Null
+Company E,Restaurant,San Juan,High,Trustworthy,Reliable,Professional,Expensive,Noisy,Inconvenient,Finance,https://www.example.com
+Company E,Retail,Bayamon,Low,Trustworthy,Trustworthy,Trustworthy,Expensive,Complex,Expensive,Finance,https://www.example.com
+Company E,Retail,San Juan,High,Reliable,Reliable,Innovative,Expensive,Complex,Expensive,Hospitality,Null
+Company E,Retail,San Juan,High,Reliable,Convenient,Innovative,Slow,Slow,Noisy,Finance,Null
+Company C,Retail,Ponce,Medium,Convenient,Trustworthy,Reliable,Slow,Noisy,Noisy,Retail,https://www.example.com
+Company A,Restaurant,Caguas,Low,Reliable,Reliable,Trustworthy,Slow,Complex,Slow,Finance,Null
+Company A,Retail,San Juan,Medium,Trustworthy,Reliable,Convenient,Expensive,Slow,Complex,Hospitality,https://www.example.com
+Company E,Finance,Ponce,Low,Reliable,Reliable,Professional,Slow,Complex,Expensive,Finance,Null
+Company D,Retail,Guaynabo,Low,Innovative,Professional,Trustworthy,Inconvenient,Noisy,Noisy,Healthcare,Null
+Company B,Retail,Ponce,Low,Professional,Professional,Professional,Slow,Expensive,Noisy,Retail,Null
+Company B,Finance,Bayamon,High,Convenient,Trustworthy,Trustworthy,Slow,Slow,Complex,Healthcare,Null
+Company C,Restaurant,Ponce,Medium,Reliable,Trustworthy,Convenient,Noisy,Slow,Expensive,Technology,Null
+Company D,Finance,Guaynabo,High,Innovative,Professional,Professional,Noisy,Complex,Slow,Technology,Null
+Company C,Restaurant,Caguas,High,Professional,Reliable,Innovative,Noisy,Noisy,Complex,Healthcare,Null
+Company E,Restaurant,San Juan,High,Trustworthy,Trustworthy,Innovative,Complex,Inconvenient,Complex,Finance,Null
+Company B,Restaurant,Guaynabo,Medium,Convenient,Reliable,Professional,Slow,Noisy,Complex,Technology,Null
+Company D,Technology,Ponce,Medium,Professional,Professional,Professional,Expensive,Complex,Inconvenient,Hospitality,https://www.example.com
+Company D,Finance,Guaynabo,Medium,Innovative,Reliable,Reliable,Noisy,Noisy,Noisy,Retail,https://www.example.com
+Company E,Retail,Bayamon,Medium,Professional,Convenient,Professional,Slow,Slow,Complex,Finance,Null
+Company A,Technology,Guaynabo,Medium,Convenient,Convenient,Professional,Complex,Noisy,Noisy,Finance,https://www.example.com
+Company D,Technology,San Juan,Medium,Convenient,Professional,Trustworthy,Inconvenient,Complex,Expensive,Technology,https://www.example.com
+Company E,Restaurant,Bayamon,High,Convenient,Reliable,Reliable,Complex,Noisy,Complex,Finance,https://www.example.com
+Company A,Retail,San Juan,High,Innovative,Reliable,Professional,Expensive,Expensive,Slow,Technology,Null
+Company B,Technology,San Juan,Low,Innovative,Professional,Professional,Inconvenient,Complex,Inconvenient,Hospitality,Null
+Company D,Retail,Ponce,High,Convenient,Trustworthy,Convenient,Complex,Slow,Inconvenient,Technology,Null
+Company A,Finance,Bayamon,High,Convenient,Professional,Reliable,Expensive,Complex,Slow,Hospitality,Null
+Company A,Healthcare,Bayamon,Low,Professional,Reliable,Professional,Inconvenient,Expensive,Expensive,Technology,Null
+Company E,Healthcare,Caguas,High,Innovative,Professional,Professional,Slow,Expensive,Complex,Healthcare,Null
+Company B,Healthcare,Guaynabo,Medium,Professional,Convenient,Reliable,Slow,Expensive,Inconvenient,Finance,Null
+Company C,Healthcare,Ponce,Medium,Convenient,Professional,Convenient,Complex,Slow,Inconvenient,Healthcare,Null
+Company C,Retail,San Juan,Medium,Trustworthy,Trustworthy,Trustworthy,Complex,Noisy,Noisy,Finance,https://www.example.com
+Company E,Technology,Bayamon,Medium,Reliable,Reliable,Professional,Inconvenient,Inconvenient,Expensive,Hospitality,Null
+Company D,Finance,Caguas,Low,Trustworthy,Innovative,Reliable,Expensive,Complex,Complex,Finance,Null
+Company C,Finance,Ponce,High,Trustworthy,Innovative,Professional,Inconvenient,Inconvenient,Noisy,Technology,Null
+Company E,Technology,Bayamon,Medium,Reliable,Innovative,Reliable,Complex,Expensive,Noisy,Retail,Null
+Company C,Restaurant,Guaynabo,Low,Reliable,Innovative,Trustworthy,Slow,Expensive,Slow,Finance,Null
+Company E,Retail,San Juan,Medium,Trustworthy,Professional,Professional,Slow,Slow,Noisy,Healthcare,Null
+Company E,Healthcare,Bayamon,Medium,Professional,Innovative,Innovative,Inconvenient,Noisy,Inconvenient,Technology,Null
+Company E,Healthcare,Guaynabo,High,Reliable,Professional,Trustworthy,Complex,Complex,Complex,Hospitality,https://www.example.com

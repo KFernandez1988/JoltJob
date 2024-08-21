@@ -2,6 +2,7 @@ from flask import Blueprint, jsonify, request, render_template, session
 from app.auth import generate_token, login_required
 from app import db, app
 from app.models import Users
+from app.machines import company_matching_reader
 from flask_bcrypt import Bcrypt, check_password_hash
 
 bp = Blueprint('main', __name__)
@@ -35,6 +36,8 @@ def signup():
 def login():
     data = request.get_json()
 
+   
+
     if not data or 'email' not in data or 'password' not in data:
         return jsonify({'error': 'Email and password are required'}), 400
 
@@ -52,3 +55,15 @@ def login():
 def get_users(logged_in_user_id):
     users = Users.query.all()
     return jsonify([user.fullname for user in users])
+
+@bp.route('/matching', methods=['POST'])
+@login_required
+def match_user_with_companies(logg):
+    body = request.get_json()
+    print(body)
+    try:
+        result = company_matching_reader(body)
+        return jsonify(result)
+    except Exception as e:
+        print(f"Error occurred: {e}")
+        return jsonify({"error": "An error occurred while processing your request."}), 500
