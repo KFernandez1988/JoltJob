@@ -2,8 +2,6 @@
 /*******************/
 /********************/
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap");
-@import url("bootstrap/dist/css/bootstrap.css");
-@import url("bootstrap-icons/font/bootstrap-icons.css");
 /*******************/
 /********************/
 /*******************/
@@ -12336,18 +12334,11 @@ textarea.form-control-lg {
  * Copyright 2019-2024 The Bootstrap Authors
  * Licensed under MIT (https://github.com/twbs/icons/blob/main/LICENSE)
  */
-/* @font-face {
+@font-face {
   font-display: block;
   font-family: "bootstrap-icons";
   src: url("./fonts/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff2"), url("./fonts/bootstrap-icons.woff?24e3eb84d0bcaf83d77f904c78ac1f47") format("woff");
-} */
-@font-face {
-  font-family: 'Bootstrap Icons';
-  src: url('/bootstrap-icons.woff2?24e3eb84d0bcaf83d77f904c78ac1f47') format('woff2');
-  font-weight: normal;
-  font-style: normal;
 }
-
 .bi::before,
 [class^=bi-]::before,
 [class*=" bi-"]::before {

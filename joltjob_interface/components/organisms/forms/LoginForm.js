@@ -21,16 +21,14 @@ export default function LoginForm({ formData = {}, errorMessage }) {
                 }),
             });
 
-            const data = await response.json(); // Convert the response to JSON
-
+            const data = await response.json(); 
             if (response.ok) {
                 console.log('Form submitted successfully!');
                 console.log(data);
                 
-                // Save the token to localStorage
+             
                 localStorage.setItem('token', data.token);
 
-                // Redirect to the homepage or any other page
                 window.location.href = '/'; 
                 
             } else {
