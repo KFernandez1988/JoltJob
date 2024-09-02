@@ -1,7 +1,8 @@
 "use client";
 
-import React from "react";
+import React, { useEffect } from "react";
 import Link from "next/link";
+import { useRouter } from 'next/navigation';
 import {
   Navbar,
   Collapse,
@@ -30,6 +31,22 @@ const Header = () => {
     document.getElementById("sidebarArea").classList.toggle("showSidebar");
   };
 
+  const handleLogout = async () => {
+    try {
+      const response = await fetch('http://localhost:3000/api/auth', {
+        method: 'DELETE',
+      });
+
+      if (response.ok) {
+        router.push('/login');
+      } else {
+        console.error("Failed to logout:", await response.text());
+      }
+    } catch (error) {
+      console.error("Failed to logout:", error);
+    }
+  };
+
   return (
     <Navbar color="white" light expand="md" className="fix-header">
       <div className="d-flex align-items-center">
@@ -38,10 +55,10 @@ const Header = () => {
         </div>
         <NavbarBrand href="/">
           <Image
-            src="/images/logos/adminprowhite.svg"
-            alt="AdminPro Logo"
-            width={150}  // Specify appropriate width
-            height={50}  // Specify appropriate height
+            src="/images/ICONLOGO.svg"
+            alt="JOLTJOB Logo"
+            width={150}  
+            height={50}  
           />
         </NavbarBrand>
         <Button
@@ -108,7 +125,7 @@ const Header = () => {
             <DropdownItem divider />
             <DropdownItem>My Balance</DropdownItem>
             <DropdownItem>Inbox</DropdownItem>
-            <DropdownItem>Logout</DropdownItem>
+            <DropdownItem onClick={handleLogout}>Logout</DropdownItem>
           </DropdownMenu>
         </Dropdown>
       </Collapse>

@@ -1,7 +1,10 @@
+
 import { Inter } from "next/font/google";
 import Sidebar from "../components/organisms/Sidebar";
 import Header from "../components/organisms/Header";
 import { Container } from "reactstrap";
+import { cookies } from "next/headers";
+import { redirect } from "next/navigation";
 import "./globals.css";
 
 const inter = Inter({ subsets: ["latin"] });
@@ -12,6 +15,9 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
+   const cookiesStore = cookies();
+
+
   return (
     <html lang="en">
       <head>

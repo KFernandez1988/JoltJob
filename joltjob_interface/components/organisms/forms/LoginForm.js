@@ -1,16 +1,18 @@
 'use client';
 
 import { useRef } from 'react';
+import { useRouter } from 'next/navigation';
 
 export default function LoginForm({ formData = {}, errorMessage }) {
     const emailRef = useRef(formData.email || '');
     const passwordRef = useRef(formData.password || '');
+    const router = useRouter();
 
     const submitHandler = async (e) => {
         e.preventDefault();
 
         try {
-            const response = await fetch('http://127.0.0.1:5000/login', {
+            const response = await fetch('http://localhost:3000/api/auth', {
                 method: 'POST',
                 headers: {
                     'Content-Type': 'application/json',
@@ -21,19 +23,15 @@ export default function LoginForm({ formData = {}, errorMessage }) {
                 }),
             });
 
-            const data = await response.json(); 
-            if (response.ok) {
-                console.log('Form submitted successfully!');
-                console.log(data);
-                
-             
-                localStorage.setItem('token', data.token);
+            const data = await response.json();
+            if (response.ok && data.success) {
+                alert('Login successful!');
+                router.push('/');
 
-                window.location.href = '/'; 
-                
             } else {
                 console.error('Form submission failed.');
                 alert('Login failed. Please check your credentials.');
+                throw new Error('Login failed');
             }
         } catch (error) {
             console.error('Error submitting form:', error);

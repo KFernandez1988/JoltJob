@@ -4,6 +4,7 @@ from app import db, app
 from app.models import Users
 from app.machines import company_matching_reader
 from flask_bcrypt import Bcrypt, check_password_hash
+import os
 
 bp = Blueprint('main', __name__)
 bcrypt = Bcrypt(app)
@@ -36,8 +37,6 @@ def signup():
 def login():
     data = request.get_json()
 
-   
-
     if not data or 'email' not in data or 'password' not in data:
         return jsonify({'error': 'Email and password are required'}), 400
 
@@ -67,3 +66,23 @@ def match_user_with_companies(logg):
     except Exception as e:
         print(f"Error occurred: {e}")
         return jsonify({"error": "An error occurred while processing your request."}), 500
+    
+@app.route('/upload', methods=['POST'])
+def upload_file():
+
+    
+    if 'file' not in request.files:
+        return jsonify({"error": "No file part"}), 400
+
+    file = request.files['file']
+    
+    if not os.path.exists('./uploads/'):
+        os.makedirs('./uploads/')
+
+    if file.filename == '':
+        return jsonify({"error": "No selected file"}), 400
+
+    filepath = os.path.join('./uploads/', file.filename)
+    file.save(filepath)
+
+    return jsonify({"message": "File uploaded successfully", "filepath": filepath}), 200

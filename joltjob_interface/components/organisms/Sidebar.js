@@ -6,55 +6,55 @@ import { usePathname } from 'next/navigation';
 
 const navigation = [
   {
-    title: "Dashboard",
-    href: "/starter",
-    icon: "bi bi-speedometer2",
+    title: "DASHBOARD",
+    href: "/",
+    icon: "bi bi-pie-chart",
   },
   {
-    title: "Alert",
-    href: "/alerts",
-    icon: "bi bi-bell",
-  },
-  {
-    title: "Badges",
-    href: "/badges",
-    icon: "bi bi-patch-check",
-  },
-  {
-    title: "Buttons",
-    href: "/buttons",
-    icon: "bi bi-hdd-stack",
-  },
-  {
-    title: "Cards",
-    href: "/cards",
-    icon: "bi bi-card-text",
-  },
-  {
-    title: "Grid",
-    href: "/grid",
-    icon: "bi bi-columns",
-  },
-  {
-    title: "Table",
-    href: "/table",
-    icon: "bi bi-layout-split",
-  },
-  {
-    title: "Forms",
-    href: "/forms",
-    icon: "bi bi-textarea-resize",
-  },
-  {
-    title: "Breadcrumbs",
-    href: "/breadcrumbs",
-    icon: "bi bi-link",
-  },
-  {
-    title: "About",
-    href: "/about",
+    title: "EMPLOYEES",
+    href: "/employees",
     icon: "bi bi-people",
   },
+  {
+    title: "BUSINESS",
+    href: "/business",
+    icon: "bi bi-shop",
+  },
+  {
+    title: "SUBSCRIPTIONS",
+    href: "/subs",
+    icon: "bi bi-arrow-repeat",
+  },
+  // {
+  //   title: "Cards",
+  //   href: "/cards",
+  //   icon: "bi bi-card-text",
+  // },
+  // {
+  //   title: "Grid",
+  //   href: "/grid",
+  //   icon: "bi bi-columns",
+  // },
+  // {
+  //   title: "Table",
+  //   href: "/table",
+  //   icon: "bi bi-layout-split",
+  // },
+  // {
+  //   title: "Forms",
+  //   href: "/forms",
+  //   icon: "bi bi-textarea-resize",
+  // },
+  // {
+  //   title: "Breadcrumbs",
+  //   href: "/breadcrumbs",
+  //   icon: "bi bi-link",
+  // },
+  // {
+  //   title: "About",
+  //   href: "/about",
+  //   icon: "bi bi-people",
+  // },
 ];
 
 const Sidebar = () => {
@@ -92,15 +92,6 @@ const Sidebar = () => {
               </Link>
             </NavItem>
           ))}
-          <Button
-            color="danger"
-            tag="a"
-            target="_blank"
-            className="mt-3"
-            href="https://www.wrappixel.com/templates/adminpro-react-redux-admin/?ref=33"
-          >
-            Upgrade To Pro
-          </Button>
         </Nav>
       </div>
     </div>
