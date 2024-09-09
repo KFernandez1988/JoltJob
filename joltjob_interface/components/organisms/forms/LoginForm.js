@@ -25,7 +25,6 @@ export default function LoginForm({ formData = {}, errorMessage }) {
 
             const data = await response.json();
             if (response.ok && data.success) {
-                alert('Login successful!');
                 router.push('/');
 
             } else {

@@ -1,4 +1,4 @@
-'use client';  // This is necessary for client-side interactivity in Next.js 14
+'use client'
 
 import { useState, useEffect } from 'react';
 

@@ -1,28 +1,23 @@
 import { NextResponse } from 'next/server';
 
 export function middleware(req) {
-  // const { pathname } = req.nextUrl;
-  // const token = req.cookies.get('token');
+  const { pathname } = req.nextUrl;
+  const token = req.cookies.get('token')?.value;
 
-  // console.log("Token:", token);
-  // const url = req.url.split('/')[req.url.split('/').lenght -1];
-  // console.log("URL:", url);
+  console.log("Token:", token);
  
 
-  // if (!token) {
-  //   if (url !== '/login' || url !== '/registry') {
-  //     console.log("No token found, redirecting to /login...");
-  //     return NextResponse.redirect(new URL('/login', req.url));
-  //   }
-  // }
+  if (!token) {
+      console.log("No token found, redirecting to /login...");
+      return NextResponse.redirect(new URL('/login', req.url));
+  }
 
   
-  // console.log("Token found, allowing access to:", pathname);
-  // return NextResponse.next();
+  return NextResponse.next();
 }
 
 export const config = {
   matcher: [
-    '/((?!_next/static|_next/image|favicon.ico).*)',
+    '/business', '/matching', '/employees', '/subs'
   ],
 };

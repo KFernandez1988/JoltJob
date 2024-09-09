@@ -2,7 +2,6 @@ import RegistryForm from '@/components/organisms/forms/RegistryForm';
 import Link from 'next/link';
 
 export default async function Registry({ formData, errorMessage }) {
-  // You can add logic here to fetch formData or handle other async operations
 
   return (
     <>

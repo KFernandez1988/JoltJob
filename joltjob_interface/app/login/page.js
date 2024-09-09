@@ -5,11 +5,11 @@ export default function Login({ formData, errorMessage }) {
   return (
     <div className="min-h-screen flex flex-col items-center justify-center bg-gray-100">
       <main className="flex flex-col items-center justify-center flex-1 px-20 text-center">
-      <header>
+      {/* <header>
         <h3>JOLTJOB</h3><ul><li><Link href="/login">Login</Link></li>
         <li><Link href="users">List</Link></li>
         <li><Link href="matching">Matching</Link></li></ul>
-      </header>
+      </header> */}
         <h1 className="text-6xl font-bold text-blue-600">
           Login to <a href="/" className="text-blue-500">JoltJob</a>
         </h1>

@@ -13,14 +13,15 @@ export async function POST(req) {
     });
 
     const backendResponse = await backend.json();
-    console.log('backend response', backendResponse);
+    
+    //console.log('backend response', backendResponse);
 
     if (backend.ok) {
       const response = NextResponse.json({ success: true });
 
       response.cookies.set('token', backendResponse.token, {
         httpOnly: true,
-        maxAge: 60 * 60, // 1 hour
+        maxAge: 60 * 60, 
         path: '/',
       });
 
@@ -39,10 +40,7 @@ export async function DELETE(req) {
   try {
     const response = NextResponse.redirect(new URL('/login', req.url));
 
-    response.cookies.set('token', '', {
-      maxAge: 0,
-      path: '/',
-    });
+    response.cookies.delete('token');
 
     return response;
   } catch (error) {

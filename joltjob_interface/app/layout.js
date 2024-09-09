@@ -15,7 +15,7 @@ export const metadata = {
 };
 
 export default function RootLayout({ children }) {
-   const cookiesStore = cookies();
+
 
 
   return (
@@ -33,23 +33,7 @@ export default function RootLayout({ children }) {
         
       </head>
       <body>
-        <main>
-       
-          <Header />
-          <div className="pageWrapper d-lg-flex">
-          
-            <aside className="sidebarArea shadow" id="sidebarArea">
-              <Sidebar />
-            </aside>
-          
-            <div className="contentArea">
-
-              <Container className="p-4" fluid>
-                {children}
-              </Container>
-            </div>
-          </div>
-        </main>
+       {children}
       
       </body>
     </html>

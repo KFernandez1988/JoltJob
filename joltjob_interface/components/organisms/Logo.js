@@ -7,8 +7,8 @@ const Logo = () => {
       <Image
         src="/images/NAME AND LOGO.svg"
         alt="AdminPro Logo"
-        width={150}  // Specify the appropriate width
-        height={50}  // Specify the appropriate height
+        width={150} 
+        height={50}  
       />
     </Link>
   );
