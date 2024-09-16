@@ -5,6 +5,8 @@ import { Table, Input, Dropdown, DropdownToggle, DropdownMenu, DropdownItem } fr
 import Link from 'next/link';
 import SimpleModal from '@/components/organisms/modal/SimpleModal';
 import FileUpload from '@/components/organisms/forms/uploadFiles';
+import JobOpeningForm from '@/components/organisms/forms/jobOpeningForm';
+import CompanyFormModal from '@/components/organisms/forms/companyForm';
 
 export default function Home() {
   const [employeeData, setEmployeeData] = useState([
@@ -56,6 +58,8 @@ export default function Home() {
   ]);
 
   const [isModalOpen, setIsModalOpen] = useState(false);
+  const [isModalOpenJob, setIsModalOpenJob] = useState(false);
+  const [isModalOpenCom, setIsModalOpenCom] = useState(false);
   const [editingSalary, setEditingSalary] = useState(null);
   const [editingStartDate, setEditingStartDate] = useState(null);
   const [dropdownOpen, setDropdownOpen] = useState({});
@@ -63,6 +67,10 @@ export default function Home() {
 
   const openModal = () => setIsModalOpen(true);
   const closeModal = () => setIsModalOpen(false);
+  const openModalJob = () => setIsModalOpenJob(true);
+  const closeModalJob = () => setIsModalOpenJob(false);
+  const openModalCom = () => setIsModalOpenCom(true);
+  const closeModalCom = () => setIsModalOpenCom(false);
 
   const handleSalaryChange = (index, value) => {
     const updatedEmployees = [...employeeData];
@@ -114,6 +122,8 @@ export default function Home() {
 
       <div className="d-flex justify-content-between mb-4">
         <button className="btn btn-primary" onClick={openModal}>Submit Resume</button>
+        <button className="btn btn-primary" onClick={openModalJob}>Create Job Opening</button>
+        <button className="btn btn-primary" onClick={openModalCom}>Enter Company Info</button>
       </div>
       <Table bordered striped responsive>
         <thead>
@@ -204,6 +214,12 @@ export default function Home() {
       </Table>
       <SimpleModal isOpen={isModalOpen} onClose={closeModal}>
         <FileUpload />
+      </SimpleModal>
+      <SimpleModal isOpen={isModalOpenJob} onClose={closeModalJob}>
+        <JobOpeningForm closeModal={closeModalJob} />
+      </SimpleModal>
+      <SimpleModal isOpen={isModalOpenCom} onClose={closeModalCom}>
+        <CompanyFormModal closeModal={closeModalCom} />
       </SimpleModal>
     </div>
   );

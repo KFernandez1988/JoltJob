@@ -15,6 +15,7 @@ const employeeData = [
       peersReview: 4.75,
       positionRequestedCompatibility: 90.25,
       companyCompatibility: 85.5,
+      isliked: false
     },
   ];
 

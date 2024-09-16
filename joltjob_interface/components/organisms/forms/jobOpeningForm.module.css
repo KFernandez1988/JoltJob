@@ -1,0 +1,82 @@
+/* jobOpeningForm.module.css */
+
+/* Modal container that centers the modal */
+.modalContainer {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5); /* Semi-transparent background */
+    z-index: 1000;
+  }
+  
+  /* The modal itself */
+  .modalContent {
+    position: relative;
+    width: 90%;
+    max-width: 600px;
+    max-height: 80vh;
+    overflow-y: auto; /* Scrollable content */
+    background-color: white;
+    border-radius: 8px;
+    padding: 20px;
+    box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);
+  }
+  
+  /* Modal form elements */
+  .input, .textarea, .button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 4px;
+    border: 1px solid #ccc;
+    font-size: 16px;
+  }
+  
+  .textarea {
+    height: 100px;
+  }
+  
+  .button {
+    background-color: #0070f3;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .button:hover {
+    background-color: #005bb5;
+  }
+  
+  /* Dynamic fields for skills and benefits */
+  .dynamicFields {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .dynamicFields input {
+    margin-bottom: 5px;
+  }
+  
+  /* Button for adding fields */
+  .addField {
+    margin: 5px 0;
+    background-color: #28a745;
+    color: white;
+  }
+  
+  .addField:hover {
+    background-color: #218838;
+  }
+  
+  /* Title */
+  .title {
+    text-align: center;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  

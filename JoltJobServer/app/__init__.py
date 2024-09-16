@@ -7,11 +7,11 @@ from flask_cors import CORS
 db = SQLAlchemy()
 migrate = Migrate()
 app = Flask(__name__)
+app.config['DEBUG'] = True 
+app.config['PROPAGATE_EXCEPTIONS'] = True  
 CORS(app, resources={r"/*": {"origins": "http://localhost:3000"}})
 
 def create_app(config_filename=None):
-    
-
     if config_filename:
         app.config.from_pyfile(config_filename)
     else:
